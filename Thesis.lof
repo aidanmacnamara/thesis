@@ -1,0 +1,50 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The genomic organisation of HTLV-I}}{22}{figure.26}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The global distribution of HTLV-I}}{23}{figure.28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Allele rankings for proviral load association}}{39}{figure.58}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The robustness of allele ranks}}{41}{figure.60}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The ROC curves comparing rescaling and non-rescaling}}{49}{figure.76}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The relationship between rescale values}}{50}{figure.78}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The ROC curve analysis without with randomly derived rescale values}}{51}{figure.79}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The relationship between AUC and rescale value}}{52}{figure.81}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The ROC curve analysis without low accuracy alleles}}{53}{figure.82}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces A comparison of experimental and predicted binding affinities}}{55}{figure.91}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces A second comparison of experimental and predicted binding affinities}}{56}{figure.92}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces The effect of a reduced negative dataset}}{57}{figure.94}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces The effect of rescaling on sensitivity}}{58}{figure.96}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces The Metaserver website}}{59}{figure.99}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Experimental data for Metaserver}}{74}{figure.131}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Experimental data for Epipred}}{75}{figure.132}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Protective class I alleles bind HBZ strongly}}{76}{figure.134}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The strength of binding to HBZ}}{78}{figure.138}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The bootstrap analysis for Metaserver}}{79}{figure.140}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces The bootstrap analysis for Epipred}}{80}{figure.141}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The strength of binding to HBZ and proviral load}}{82}{figure.143}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The correlation of hypotheses for Metaserver}}{85}{figure.150}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The correlation of hypotheses for Epipred}}{87}{figure.151}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The comparative immunogenicity of HBZ and Tax}}{88}{figure.155}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The Tax expression time course}}{97}{figure.176}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces CD8$^+$ antiviral efficacy assay}}{98}{figure.178}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces A paired comparison of the rates of lysis}}{100}{figure.179}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The ratio of Tax\ensuremath {^{\textrm {high}}}/Tax\ensuremath {^{\textrm {high}}} lysis rates}}{101}{figure.180}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Inhibitory HLA-KIR interactions and proviral load}}{105}{figure.192}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Activating HLA-KIR interactions and proviral load}}{106}{figure.193}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The effect of positive set size}}{126}{figure.242}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces The effect of negative set size}}{126}{figure.243}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Measures of CD8$^+$ T cell efficacy and specificity of MHC class I}}{135}{figure.254}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces The Tax expression time course: other patients}}{144}{figure.263}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces CD8$^+$ antiviral efficacy assay: other patients}}{146}{figure.265}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces A comparison of repeat measures of $\epsilon $\ensuremath {^{\textrm {low}}} and $\epsilon $\ensuremath {^{\textrm {high}}}}}{150}{figure.269}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces A comparison of parameter $\epsilon $ with $\epsilon $\ensuremath {^{\textrm {low}}} and $\epsilon $\ensuremath {^{\textrm {high}}}}}{150}{figure.270}
+\contentsline {figure}{\numberline {C.5}{\ignorespaces A comparison of parameter $c$ with $c_1$ and $c_2$}}{151}{figure.271}
+\contentsline {figure}{\numberline {C.6}{\ignorespaces The ratio of Tax expression for HAM/TSP and AC patients}}{151}{figure.272}

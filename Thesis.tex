@@ -1,0 +1,319 @@
+%% ----------------------------------------------------------------
+%% Thesis.tex -- MAIN FILE (the one that you compile with LaTeX)
+%% ---------------------------------------------------------------- 
+
+% Set up the document
+\documentclass[a4paper, 11pt, oneside]{Thesis}	% Use the "Thesis" style, based on the ECS Thesis style by Steve Gunn
+\graphicspath{{Figures/}}	% Location of the graphics files (set up for graphics to be in PDF format)
+
+% Include any extra LaTeX packages required
+\usepackage[square, numbers, comma, sort&compress]{natbib}	% Use the "Natbib" style for the references in the Bibliography
+\usepackage{verbatim}	% Needed for the "comment" environment to make LaTeX comments
+\usepackage{vector}	% Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
+\hypersetup{urlcolor=blue, colorlinks=true}	% Colours hyperlinks in blue, but this can be distracting if there are many links.
+\usepackage{multirow}
+\usepackage{bigstrut}
+\usepackage{enumerate}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{rotate}
+\usepackage{tikz}
+\usetikzlibrary{%
+   arrows,%
+   shapes.misc,%
+   shapes.arrows,%
+   chains,%
+   matrix,%
+   positioning,%
+   scopes,%
+   decorations.pathmorphing,%
+   shadows%
+}
+%\usepackage[bottom]{footmisc}
+
+%% ----------------------------------------------------------------
+\begin{document}
+\mainmatter	% Begin Roman style (i, ii, iii, iv...) page numbering
+
+% Set up the Title Page
+\title	{The Determination of the Basis of HLA Class I Associated Protection in HTLV-I Infection}
+\authors	{\texorpdfstring
+		{\href{http://www1.imperial.ac.uk/medicine/people/aidan.macnamara/}{Aidan MacNamara}}
+		{Aidan MacNamara}
+		}
+\addresses	{\groupname\\\deptname\\\univname}
+\date		{\today}
+\subject	{}
+\keywords	{}
+
+\maketitle
+%% ----------------------------------------------------------------
+
+\setstretch{1.3}	% It is better to have smaller font and larger line spacing than the other way round
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{}	% Clears all page headers and footers
+\rhead{\thepage}	% Sets the right side header to show the page number
+\lhead{}	% Clears the left side page header
+
+\pagestyle{fancy}	% Finally, use the "fancy" page style to implement the FancyHdr headers
+
+%% ----------------------------------------------------------------
+% Declaration Page required for the Thesis, your institution may give you a different text to place here
+\Declaration{
+
+\addtocontents{toc}{\vspace{1em}}	% Add a gap in the Contents, for aesthetics
+
+I, Aidan MacNamara, declare that this thesis titled, `The Determination of the Basis of HLA Class I Associated Protection in HTLV-I Infection' and the work presented in it are my own. I confirm that:
+
+\begin{itemize} 
+\item[\tiny{$\blacksquare$}] This work was done wholly or mainly while in candidature for a research degree at this University.
+ 
+\item[\tiny{$\blacksquare$}] Where any part of this thesis has previously been submitted for a degree or any other qualification at this University or any other institution, this has been clearly stated.
+ 
+\item[\tiny{$\blacksquare$}] Where I have consulted the published work of others, this is always clearly attributed.
+ 
+\item[\tiny{$\blacksquare$}] Where I have quoted from the work of others, the source is always given. With the exception of such quotations, this thesis is entirely my own work.
+ 
+\item[\tiny{$\blacksquare$}] I have acknowledged all main sources of help.
+ 
+\item[\tiny{$\blacksquare$}] Where the thesis is based on work done by myself jointly with others, I have made clear exactly what was done by others and what I have contributed myself.
+\\
+\end{itemize}
+ 
+ 
+Signed:\\
+\rule[1em]{25em}{0.5pt}	% This prints a line for the signature
+ 
+Date:\\
+\rule[1em]{25em}{0.5pt}	% This prints a line to write the date
+}
+\clearpage	% Declaration ended, now start a new page
+
+%% ----------------------------------------------------------------
+% The "Funny Quote Page"
+\pagestyle{empty}	% No headers or footers for the following pages
+
+\null\vfill
+% Now comes the "Funny Quote", written in italics
+\textit{``Satan delights equally in statistics and in quoting scripture...''}
+
+\begin{flushright}
+H. G. Wells
+\end{flushright}
+
+\vfill\vfill\vfill\vfill\vfill\vfill\null
+\clearpage	% Funny Quote page ended, start a new page
+%% ----------------------------------------------------------------
+
+% The Abstract Page
+\addtotoc{Abstract}	% Add the "Abstract" page entry to the Contents
+\abstract{
+\addtocontents{toc}{\vspace{1em}}	% Add a gap in the Contents, for aesthetics
+
+\emph{Aim}
+
+The aim of this work was to investigate what constitutes a protective cellular immune response to HTLV-I infection, focusing on understanding the relationship between HLA class I and the outcome of infection. Initially, we conducted an analysis of our patient cohort to identify robust associations between HLA class I type and infection outcome. We then identified and optimized the most accurate epitope prediction software and applied these techniques to identify the constituents of a protective HLA class I restricted response. In related projects, we identified viral factors that impact on the efficiency of the CD8$^+$ T cell response and also investigated the role of KIR:HLA genotype in the outcome of HTLV-I infection.
+
+%The aim of this work was to investigate what constitutes a protective cellular immune response to HTLV-I infection, with a particular focus on understanding the relationship between HLA class I and the outcome of infection. Examining the CD8$^+$ T cell response to HTLV-I, we conducted a rigorous analysis of our patient cohort to identify robust associations between HLA class I type and the outcome of infection (proviral load or disease status). We then identified and optimised the most accurate epitope prediction software and applied these techniques to analyse our patient database, in order to identify the constituents of a protective HLA class I restricted response. These predictions were then then verified and tested experimentally in collaboration. In related projects, we identified viral factors that impact on the efficiency of the CD8$^+$ T cell response and also investigated the role of KIR:HLA genotype in the outcome of HTLV-I infection.
+
+\emph{Results}
+
+We produced a more accurate method of epitope prediction that we call Metaserver. This method was used to predict HTLV-I epitopes that bind to the HLA class I alleles of our patient cohort. We then developed a statistical method that demonstrated targeting the HTLV-I protein HBZ is beneficial in terms of disease status and proviral load. In the related analysis of the CD8$^+$ T cell response to HTLV-I infected cells, we produced a model measuring the lysis of infected cells as a function of antigen expression and showed a positive relationship between antigen expression and lysis efficiency. For our analysis of KIR genotype, we found no relationship between KIR:HLA interactions and disease status or proviral load in HTLV-I infection.
+
+%Following a stringent analysis of currently available epitope prediction software, we produced a more accurate method of epitope prediction that we call Metaserver. This method was used to predict HTLV-I epitopes that bind to the HLA class I alleles of our patient cohort. We then developed a novel statistical method that demonstrated targeting the HTLV-I protein HBZ is beneficial in terms of disease status and proviral load. In the related analysis of the CD8$^+$ T cell response to HTLV-I infected cells, we produced a model measuring the lysis of infected cells as a function of antigen expression and showed a positive relationship between antigen expression and lysis efficiency. Finally, for our analysis of KIR genotype, we found no relationship between KIR:HLA interactions and disease status or proviral load in HTLV-I infection.
+
+\emph{Conclusion}
+
+We conclude that CD8$^+$ T cells play a central role in the control of HTLV-I and that CD8$^+$ cells specific to HBZ, not the immunodominant protein Tax, are the most effective. We suggest that HBZ plays a central role in HTLV-I persistence. The statistical method we used to quantify the specificity of HLA class I binding to viral epitopes is applicable across all pathogens, even where data are sparse.
+
+%We conclude that CD8$^+$ T cells play a central role in the control of HTLV-I and that CD8$^+$ cells specific to HBZ, not the immunodominant protein Tax, are the most effective. We suggest that HBZ plays a central role in HTLV-I persistence. The statistical method we used to quantify the specificity of HLA class I binding to viral epitopes is applicable across all pathogens, even where data are sparse. We also found that antigen density was a determinant of CD8$^+$ lysis efficiency. Finally, we found no evidence that NK cells play a major role in determining the outcome to HTLV-I infection.
+ 
+%showed that previously defined beneficial alleles (A*02 and Cw*08) strongly bind to epitopes from the HTLV-I protein HBZ, compared to the defined detrimental allele (B*54). We also showed that asymptomatic carriers possess HLA class I alleles that bind to HBZ epitopes more strongly than HAM/TSP individuals' HLA class I repertoire.
+
+%Using a patient cohort of 432 HTLV-I infected individuals, 202 asymptomatic and 232 showing symptoms of disease, we initially conducted a rigorous analysis to identify robust associations betweem HLA class I type and the outcome of infection. We then identified and optimised the most accurate epitope prediction software available to test hypotheses about HLA class I type and the HTLV-I viral epitopes that they present to the host CD8$^+$ population. Finally the predictions of this work were tested in collaboration with experimentalists.
+
+}
+
+\clearpage	% Abstract ended, start a new page
+%% ----------------------------------------------------------------
+
+\setstretch{1.3}	% Reset the line-spacing to 1.3 for body text (if it has changed)
+
+% The Acknowledgements page, for thanking everyone
+\acknowledgements{
+\addtocontents{toc}{\vspace{1em}}	% Add a gap in the Contents, for aesthetics
+
+I would like to thank my supervisor, Becca Asquith, for her advice, time, support and encouragement throughout my PhD and for producing a great environment for learning. I would also like to thank Charles Bangham for his help and support and his infectious enthusiasm for HTLV-I research and science in general.
+
+Many thanks to Ulrich Kadolsky. As a computational biologist, with the emphasis on biology, I was fortunate to be sitting next to a real computer scientist, or else everything would have taken a good deal longer. I would also like to thank my collaborators within the Department of Immunology, namely Tarek Kattan and Aileen Rowan. It was very enjoyable working together to produce research that combined experimental and theoeretical approaches. I would also like to thank Graham Taylor and Silva Hilburn for their help with my research and everyone in the department for their general help and support.
+
+I am grateful to the Wellcome Trust for funding this work.
+
+Finally, I would like to thank Jaydee, Noah and my family for their patience with all those hours spent in front of the computer!
+
+}
+\clearpage	% End of the Acknowledgements
+%% ----------------------------------------------------------------
+
+\pagestyle{fancy}	% The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+%% ----------------------------------------------------------------
+\lhead{\emph{Contents}}	% Set the left side page header to "Contents"
+\tableofcontents	% Write out the Table of Contents
+
+%% ----------------------------------------------------------------
+\lhead{\emph{List of Figures}}	% Set the left side page header to "List if Figures"
+\listoffigures	% Write out the List of Figures
+
+%% ----------------------------------------------------------------
+\lhead{\emph{List of Tables}}	% Set the left side page header to "List of Tables"
+\listoftables	% Write out the List of Tables
+
+%% ----------------------------------------------------------------
+\setstretch{1.5}	% Set the line spacing to 1.5, this makes the following tables easier to read
+\clearpage	% Start a new page
+\lhead{\emph{Abbreviations}}	% Set the left side page header to "Abbreviations"
+\listofsymbols{ll}	% Include a list of Abbreviations (a table of two columns)
+{
+% \textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
+\textbf{AC} & \textbf{A}symptomatic \textbf{C}arriers \\
+\textbf{ATL} & \textbf{A}dult \textbf{T}-cell \textbf{L}eukaemia/Lymphoma \\
+\textbf{AUC} & \textbf{A}rea \textbf{U}nder \textbf{C}urve \\
+\textbf{CNS} & \textbf{C}entral \textbf{N}ervous \textbf{S}ystem \\
+\textbf{CSF} & \textbf{C}erebrospinal \textbf{F}luid \\
+\textbf{CTL} & \textbf{C}ytotoxic \textbf{T} \textbf{L}ymphocyte \\
+\textbf{dsDNA} & \textbf{D}ouble \textbf{S}tranded \textbf{D}eoxy\textbf{r}ibo\textbf{n}ucleic acid \\
+\textbf{ELISpot} & \textbf{E}nzyme-\textbf{L}inked Immuno\textbf{spot} Assay \\
+\textbf{FACS} & \textbf{F}luoresence \textbf{A}ctivated \textbf{C}ell \textbf{S}orting \\
+\textbf{FCS} & \textbf{F}oetal \textbf{C}alf \textbf{S}erum \\
+\textbf{HAM/TSP} & \textbf{H}TLV-I \textbf{A}ssociated \textbf{M}yelopathy / \\ 
+& \textbf{T}ropical \textbf{S}pastic \textbf{P}araparesis \\
+\textbf{HBV} & \textbf{H}epatitis \textbf{B} \textbf{V}irus \\ 
+\textbf{HBZ} & \textbf{H}TLV-I \textbf{bZ}IP-Factor \\
+\textbf{HCV} & \textbf{H}epatitis \textbf{C} \textbf{V}irus \\
+\textbf{HIV} & \textbf{H}uman \textbf{I}mmunodeficiency \textbf{V}irus \\
+\textbf{HLA} & \textbf{H}uman \textbf{L}eucocyte \textbf{A}ntigen \\
+\textbf{IFN} & \textbf{I}nter\textbf{f}ero\textbf{n} \\
+\textbf{Ig} & \textbf{I}mmuno\textbf{g}lobulin \\
+\textbf{KIR} & \textbf{K}iller Cell \textbf{I}munnoglobulin-like \textbf{R}eceptor \\
+\textbf{LTR} & \textbf{L}ong \textbf{T}erminal \textbf{R}epeat \\
+\textbf{MHC} & \textbf{M}ajor \textbf{H}istocompatibility \textbf{C}omplex \\ 
+\textbf{ORF} & \textbf{O}pen \textbf{R}eading \textbf{F}rame \\
+\textbf{PBMC} & \textbf{P}eripheral \textbf{B}lood \textbf{M}ononuclear \textbf{C}ells \\
+\textbf{SD} & \textbf{S}tandard \textbf{D}eviation \\
+\textbf{TCR} & \textbf{T}-\textbf{C}ell \textbf{R}eceptor \\
+\textbf{TNF} & \textbf{T}umour \textbf{N}ecrosis \textbf{F}actor \\
+\textbf{WHO} & \textbf{W}orld \textbf{H}ealth \textbf{O}rganisation \\
+
+% TO ADD 
+
+}
+
+%% ----------------------------------------------------------------
+%\clearpage	% Start a new page
+%\lhead{\emph{Physical Constants}}	% Set the left side page header to "Physical Constants"
+%\listofconstants{lrcl}	% Include a list of Physical Constants (a four column table)
+%{
+% Constant Name & Symbol & = & Constant Value (with units) \\
+%Speed of Light & $c$ & $=$ & $2.997\ 924\ 58\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
+%}
+
+%% ----------------------------------------------------------------
+\clearpage	%Start a new page
+\lhead{\emph{Symbols}}	% Set the left side page header to "Symbols"
+\listofnomenclature{lll}	% Include a list of Symbols (a three column table)
+{
+\textbf{Symbol} & \textbf{Name} & \textbf{Unit} \\
+$c$ & Rate of increase of tax expression & Tax$^+$CD4$^+$ / 24hrs \\
+$c_1$ & Rate of increase of Tax\superscript{low} expression & Tax\superscript{low}CD4$^+$ / 24hrs \\
+$c_2$ & Rate of increase of Tax\superscript{high} expression & Tax\superscript{high}CD4$^+$ / 24hrs \\
+$y$ & Proportion of Tax\superscript{low}CD4$^+$ cells & \%Tax\superscript{low}CD4$^+$cells \\
+$w$ & Proportion of Tax\superscript{high}CD4$^+$ cells & \%Tax\superscript{high}CD4$^+$cells \\
+$\epsilon$ & Rate of killing of Tax$^+$CD4$^+$ cells per CD8$^+$ & Tax$^+$CD4$^+$ / CD8$^+$ / 24hrs \\
+$\epsilon$\superscript{low} & Rate of killing of Tax\superscript{low}CD4$^+$ cells per CD8$^+$ & Tax\superscript{low}CD4$^+$ / CD8$^+$ / 24hrs \\
+$\epsilon$\superscript{high} & Rate of killing of Tax\superscript{high}CD4$^+$ cells per CD8$^+$ & Tax\superscript{high}CD4$^+$ / CD8$^+$ / 24hrs \\
+
+}
+
+%% ----------------------------------------------------------------
+% End of the preamble, contents and lists of things
+% Begin the Dedication page
+
+\setstretch{1.3}	% Return the line spacing back to 1.3
+
+%\pagestyle{empty}	% Page style needs to be empty for this page
+%\dedicatory{For/Dedicated to/To my\ldots}
+
+\addtocontents{toc}{\vspace{2em}}	% Add a gap in the Contents, for aesthetics
+
+%% ----------------------------------------------------------------
+%\mainmatter	% Begin normal, numeric (1,2,3...) page numbering
+\pagestyle{fancy}	% Return the page headers back to the "fancy" style
+
+% Include the chapters of the thesis, as separate files
+% Just uncomment the lines as you write the chapters
+
+\input{./Chapters/Chapter1}	% Aim and Overview
+\input{./Chapters/Chapter2}	% Introduction
+\input{./Chapters/Chapter3}	% Statistical Methods
+\input{./Chapters/Chapter4}	% Rescaling
+\input{./Chapters/Chapter6}	% Specificity
+\input{./Chapters/Chapter5}	% Tax Model
+\input{./Chapters/Chapter7}	% KIR / Other Work
+\input{./Chapters/Chapter8}	% General Discussion
+%\input{./Chapters/Chapter10}	% Template Chapter
+
+%% ----------------------------------------------------------------
+% Now begin the Appendices, including them as separate files
+
+\addtocontents{toc}{\vspace{2em}}	% Add a gap in the Contents, for aesthetics
+
+\appendix	% Cue to tell LaTeX that the following 'chapters' are Appendices
+
+\input{./Appendices/AppendixA}	% Supplementary Data for Chapter 4
+\input{./Appendices/AppendixC}	% Supplementary Data for Chapter 5
+\input{./Appendices/AppendixB}	% Supplementary Data for Chapter 6
+
+\clearpage
+
+\addtocontents{toc}{\vspace{2em}}	% Add a gap in the Contents, for aesthetics
+
+\associatedPubs{
+
+These are the papers associated with this thesis that have either been published or submitted. 
+
+Published:
+
+\begin{enumerate}
+
+\item Aidan Macnamara, Ulrich Kadolsky, Charles R M Bangham, and Becca Asquith. T-Cell Epitope Prediction: Rescaling Can Mask Biological Variation between MHC Molecules\footnote{A pubcast of this manuscript is available at \href{http://www.scivee.tv/node/10738}{\texttt{http://www.scivee.tv/node/10738}}.}. PLoS Comput Biol, 5(3):e1000327, Mar 2009.
+
+\item Tarek Kattan\footnotemark[2], Aidan MacNamara\footnotemark[2], Aileen G Rowan\footnotemark[2], Hirohisa Nose, Angelina J Mosley, Yuetsu Tanaka, Graham P Taylor, Becca Asquith, and Charles R M Bangham. The avidity and lytic efficiency of the CTL response to HTLV-1. J Immunol, 182(9):5723-5729, May 2009.
+
+\end{enumerate}
+
+Submitted:
+
+\begin{enumerate}
+
+\item Aidan MacNamara, Aileen Rowan, Silva Hilburn, Ulrich Kadolsky, Hiroshi Fujiwara, Koichiro Suemori, Masaki Yasukawa, Graham Taylor, Charles R M Bangham, and Becca Asquith. HLA Class I Binding of HBZ determines outcome in HTLV-I infection. PLoS Pathogens, \emph{under review}.
+
+\end{enumerate}
+
+\footnotetext[2]{Joint first authors.}
+
+}
+\clearpage
+
+\backmatter
+
+%% ----------------------------------------------------------------
+\label{Bibliography}
+\lhead{\emph{Bibliography}}	% Change the left side page header to "Bibliography"
+\bibliographystyle{unsrtnat}	% Use the "unsrtnat" BibTeX style for formatting the Bibliography
+\bibliography{../Reference/proposal}	% The references (bibliography) information are stored in the file named "Bibliography.bib"
+
+\end{document}	% The End
+%% ----------------------------------------------------------------

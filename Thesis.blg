@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: Thesis.aux
+The style file: unsrtnat.bst
+Reallocated field_info (elt_size=4) to 10348 items from 5000.
+Database file #1: ../Reference/proposal.bib
+Warning--entry type for "LosAlamos2010" isn't style-file defined
+--line 28403 of file ../Reference/proposal.bib
+Warning--can't use both author and editor fields in Taylor2000
+Warning--can't use both author and editor fields in Mueller1997
+Warning--empty year in LosAlamos2010
+Warning--can't use both author and editor fields in Bangham2008a
+You've used 191 entries,
+            2488 wiz_defined-function locations,
+            1930 strings with 61254 characters,
+and the built_in function-call counts, 99715 in all, are:
+= -- 7418
+> -- 8057
+< -- 39
++ -- 2891
+- -- 2506
+* -- 10390
+:= -- 17111
+add.period$ -- 772
+call.type$ -- 191
+change.case$ -- 376
+chr.to.int$ -- 188
+cite$ -- 196
+duplicate$ -- 3658
+empty$ -- 7313
+format.name$ -- 2730
+if$ -- 19838
+int.to.chr$ -- 4
+int.to.str$ -- 192
+missing$ -- 194
+newline$ -- 1162
+num.names$ -- 571
+pop$ -- 1171
+preamble$ -- 1
+purify$ -- 191
+quote$ -- 0
+skip$ -- 1824
+stack$ -- 0
+substring$ -- 5196
+swap$ -- 584
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1322
+warning$ -- 4
+while$ -- 736
+width$ -- 0
+write$ -- 2883
+(There were 5 warnings)

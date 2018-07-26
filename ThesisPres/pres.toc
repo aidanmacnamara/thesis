@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{The Virus}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Why study this virus?}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{Aim}{9}{0}{1}
+\beamer@sectionintoc {3}{Method}{10}{0}{2}
+\beamer@subsectionintoc {3}{1}{Overall Scheme}{10}{0}{2}
+\beamer@subsectionintoc {3}{2}{Epitope Prediction Software}{11}{0}{2}
+\beamer@sectionintoc {4}{Results}{15}{0}{3}
+\beamer@subsectionintoc {4}{1}{Software Validation}{15}{0}{3}
+\beamer@subsectionintoc {4}{2}{Binding as a predictor of disease}{17}{0}{3}
+\beamer@subsectionintoc {4}{3}{Theory to experiment}{31}{0}{3}
+\beamer@subsectionintoc {4}{4}{The role of CTLs and NK cells}{33}{0}{3}
+\beamer@sectionintoc {5}{Conclusion}{37}{0}{4}

@@ -1,0 +1,46 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces The input matrix for the $\chi ^{2}$ test}}{36}{table.52}
+\contentsline {table}{\numberline {3.2}{\ignorespaces The summary of allele association statistics}}{38}{table.57}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces ROC curve summary statistics}}{48}{table.75}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Specificity at specified sensitivity values}}{53}{table.87}
+\contentsline {table}{\numberline {4.3}{\ignorespaces The top 5\% of predicted binding affinities}}{54}{table.89}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces An example of the rank method}}{67}{table.112}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Protective class-I alleles bind HBZ strongly}}{68}{table.116}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Asymptomatic carriers bind HBZ more strongly than HAM/TSP patients}}{69}{table.118}
+\contentsline {table}{\numberline {5.4}{\ignorespaces HBZ peptide binding is a consistent predictor of proviral load}}{70}{table.120}
+\contentsline {table}{\numberline {5.5}{\ignorespaces The input matrix for the F\ensuremath {_{\textrm {P}}} test}}{71}{table.122}
+\contentsline {table}{\numberline {5.6}{\ignorespaces The comparison of predicted and experimental data}}{73}{table.130}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Protective class I alleles bind HBZ strongly}}{76}{table.135}
+\contentsline {table}{\numberline {5.8}{\ignorespaces The binding strength to all HTLV-I proteins of HAM/TSP and AC alleles}}{77}{table.137}
+\contentsline {table}{\numberline {5.9}{\ignorespaces The binding strength to HBZ for HAM/TSP and AC individuals}}{78}{table.139}
+\contentsline {table}{\numberline {5.10}{\ignorespaces Multiple regression models predicting proviral load}}{83}{table.145}
+\contentsline {table}{\numberline {5.11}{\ignorespaces The rank order of HTLV-I protein targets}}{84}{table.149}
+\contentsline {table}{\numberline {5.12}{\ignorespaces The summary of epitope prediction hypothesis testing}}{86}{table.156}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces The accuaracy of alternative models of Tax expression}}{95}{table.175}
+\contentsline {table}{\numberline {6.2}{\ignorespaces The summary statistics of the CTL lysis model}}{99}{table.181}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces A summary of KIR ligand specificity}}{104}{table.190}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Disease risk and 2DL3}}{106}{table.194}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Disease risk and 2DS1}}{106}{table.195}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces The persistence of HTLV-I \emph {in vivo}}}{114}{table.227}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces The SYF$^1$ dataset}}{116}{table.230}
+\contentsline {table}{\numberline {A.2}{\ignorespaces The Lanl$^{179}$ dataset}}{118}{table.232}
+\contentsline {table}{\numberline {A.3}{\ignorespaces The Lanl$^{661}$ dataset}}{120}{table.234}
+\contentsline {table}{\numberline {A.4}{\ignorespaces The HIV HXB2 proteome}}{125}{table.239}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Binding analysis using the SIR measure}}{130}{table.246}
+\contentsline {table}{\numberline {B.2}{\ignorespaces Multiple regression analysis using strength of peptide binding}}{131}{table.248}
+\contentsline {table}{\numberline {B.3}{\ignorespaces Logistic regression analysis using strength of peptide binding}}{131}{table.249}
+\contentsline {table}{\numberline {B.4}{\ignorespaces Equivalent cut-off measures across prediction methods}}{132}{table.251}
+\contentsline {table}{\numberline {B.5}{\ignorespaces CD8$^+$ function and MHC class I genotype}}{134}{table.253}
+\contentsline {table}{\numberline {B.6}{\ignorespaces The top-ranking MHC class I - peptide binding affinities}}{136}{table.255}
+\contentsline {table}{\numberline {B.7}{\ignorespaces The REVEAL\ensuremath {^{\textrm {TM}}} binding assay peptides}}{138}{table.257}
+\contentsline {table}{\numberline {B.8}{\ignorespaces The HTLV-I proteome}}{141}{table.260}
+\addvspace {10\p@ }

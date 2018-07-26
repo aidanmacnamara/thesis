@@ -1,0 +1,142 @@
+\contentsline {chapter}{Declaration of Authorship}{1}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{3}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{4}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{9}{dummy.5}
+\contentsline {chapter}{List of Tables}{11}{dummy.7}
+\contentsline {chapter}{Abbreviations}{13}{dummy.9}
+\contentsline {chapter}{Symbols}{15}{dummy.12}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Aim and Overview}{16}{chapter.15}
+\contentsline {section}{\numberline {1.1}Introduction}{16}{section.16}
+\contentsline {section}{\numberline {1.2}PhD Design}{17}{section.17}
+\contentsline {subsection}{\numberline {1.2.1}Identifying Alleles Associated with Risk or Prevention in HTLV-I Infection}{17}{subsection.18}
+\contentsline {subsection}{\numberline {1.2.2}Epitope Prediction}{18}{subsection.19}
+\contentsline {subsection}{\numberline {1.2.3}The Properties of HLA class I Alleles Associated with Disease Outcome}{18}{subsection.20}
+\contentsline {subsection}{\numberline {1.2.4}Modelling CTL Efficiency in Terms of Tax Expression}{18}{subsection.21}
+\contentsline {subsection}{\numberline {1.2.5}HLA Class I Alleles and KIR Genotype}{19}{subsection.22}
+\contentsline {chapter}{\numberline {2}Introduction}{20}{chapter.23}
+\contentsline {section}{\numberline {2.1}HTLV-I}{21}{section.24}
+\contentsline {subsection}{\numberline {2.1.1}Virology}{21}{subsection.25}
+\contentsline {subsection}{\numberline {2.1.2}Epidemiology}{23}{subsection.27}
+\contentsline {section}{\numberline {2.2}HTLV-I Associated Diseases}{24}{section.29}
+\contentsline {subsection}{\numberline {2.2.1}HTLV-I Associated Myelopathy/\\Tropical Spastic Paraparesis (HAM/TSP)}{24}{subsection.30}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Pathology}{24}{subsubsection.31}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Presentation}{25}{subsubsection.32}
+\contentsline {subsubsection}{\numberline {2.2.1.3}Treatment}{25}{subsubsection.33}
+\contentsline {subsection}{\numberline {2.2.2}Adult T-cell Leukaemia/Lymphoma (ATL)}{26}{subsection.34}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Pathology}{26}{subsubsection.35}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Presentation}{26}{subsubsection.36}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Treatment}{27}{subsubsection.37}
+\contentsline {subsection}{\numberline {2.2.3}Other Conditions Associated with HTLV-I}{27}{subsection.38}
+\contentsline {section}{\numberline {2.3}Pathogenesis of HTLV-I}{28}{section.39}
+\contentsline {subsection}{\numberline {2.3.1}Background}{28}{subsection.40}
+\contentsline {subsection}{\numberline {2.3.2}Genotype}{28}{subsection.41}
+\contentsline {subsection}{\numberline {2.3.3}The CTL Response to HTLV-I}{29}{subsection.42}
+\contentsline {subsection}{\numberline {2.3.4}The Antibody Response to HTLV-I}{30}{subsection.44}
+\contentsline {subsection}{\numberline {2.3.5}Other Immune Responses to HTLV-I}{31}{subsection.45}
+\contentsline {section}{\numberline {2.4}Epitope Prediction}{32}{section.46}
+\contentsline {chapter}{\numberline {3}Identifying Alleles Associated with Disease Status and Proviral Load}{35}{chapter.47}
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.48}
+\contentsline {section}{\numberline {3.2}Methods}{36}{section.49}
+\contentsline {subsection}{\numberline {3.2.1}The Kagoshima Dataset}{36}{subsection.50}
+\contentsline {subsection}{\numberline {3.2.2}Disease Risk}{36}{subsection.51}
+\contentsline {subsection}{\numberline {3.2.3}Proviral Load}{36}{subsection.53}
+\contentsline {section}{\numberline {3.3}Results}{37}{section.54}
+\contentsline {subsection}{\numberline {3.3.1}Proviral Load}{37}{subsection.55}
+\contentsline {subsection}{\numberline {3.3.2}Disease Risk}{37}{subsection.56}
+\contentsline {section}{\numberline {3.4}Discussion}{37}{section.61}
+\contentsline {chapter}{\numberline {4}Rescaling in T-cell Epitope Prediction}{43}{chapter.62}
+\contentsline {section}{\numberline {4.1}Introduction}{43}{section.63}
+\contentsline {section}{\numberline {4.2}Methods}{44}{section.64}
+\contentsline {subsection}{\numberline {4.2.1}Prediction Method Outputs}{44}{subsection.65}
+\contentsline {subsection}{\numberline {4.2.2}Datasets}{45}{subsection.66}
+\contentsline {subsubsection}{\numberline {4.2.2.1}The SYF$^1$ Dataset}{45}{subsubsection.67}
+\contentsline {subsubsection}{\numberline {4.2.2.2}The Lanl$^{661}$ Dataset}{46}{subsubsection.68}
+\contentsline {subsubsection}{\numberline {4.2.2.3}The Lanl$^{179}$ Dataset}{46}{subsubsection.69}
+\contentsline {subsection}{\numberline {4.2.3}ROC Curves}{46}{subsection.70}
+\contentsline {subsection}{\numberline {4.2.4}Other Measurements of Performance}{47}{subsection.71}
+\contentsline {subsection}{\numberline {4.2.5}Other Data Sources}{47}{subsection.72}
+\contentsline {section}{\numberline {4.3}Results}{47}{section.73}
+\contentsline {subsection}{\numberline {4.3.1}The Effect of Rescaling on Qualitative Epitope Prediction}{47}{subsection.74}
+\contentsline {subsection}{\numberline {4.3.2}Comparison of Rescale Values}{49}{subsection.77}
+\contentsline {subsection}{\numberline {4.3.3}Variation in Rescale Values as a Function of Accuracy}{51}{subsection.80}
+\contentsline {subsection}{\numberline {4.3.4}Other Measurements of Performance}{52}{subsection.83}
+\contentsline {subsection}{\numberline {4.3.5}The Effect of Rescaling on Quantitative Predictions of Binding Affinities}{54}{subsection.90}
+\contentsline {subsection}{\numberline {4.3.6}The Effect of Negative Data Volume}{56}{subsection.93}
+\contentsline {subsection}{\numberline {4.3.7}Is Rescaling Necessary to Maintain Low Variation in Sensitivity?}{57}{subsection.95}
+\contentsline {section}{\numberline {4.4}Producing Metaserver}{58}{section.97}
+\contentsline {section}{\numberline {4.5}Discussion}{60}{section.100}
+\contentsline {chapter}{\numberline {5}The Prediction of Disease From Peptide Binding Affinities}{63}{chapter.101}
+\contentsline {section}{\numberline {5.1}Introduction}{63}{section.102}
+\contentsline {subsection}{\numberline {5.1.1}How can CD8$^+$ cell protective efficacy be quantified?}{64}{subsection.103}
+\contentsline {section}{\numberline {5.2}Methods}{65}{section.104}
+\contentsline {subsection}{\numberline {5.2.1}Epitope Prediction}{65}{subsection.105}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Metaserver}{65}{subsubsection.106}
+\contentsline {subsubsection}{\numberline {5.2.1.2}Epipred}{65}{subsubsection.107}
+\contentsline {subsection}{\numberline {5.2.2}Epitope Prediction - Allele Coverage}{65}{subsection.108}
+\contentsline {subsection}{\numberline {5.2.3}Prediction Quality}{66}{subsection.110}
+\contentsline {subsection}{\numberline {5.2.4}The Rank Measure}{66}{subsection.111}
+\contentsline {subsection}{\numberline {5.2.5}Independence of Ranks}{67}{subsection.113}
+\contentsline {subsection}{\numberline {5.2.6}Experimental Quantification of HLA Class I - Peptide Binding}{67}{subsection.114}
+\contentsline {subsection}{\numberline {5.2.7}Protective versus Detrimental Alleles}{68}{subsection.115}
+\contentsline {subsection}{\numberline {5.2.8}HAM/TSP versus Asymptomatic Carriers}{69}{subsection.117}
+\contentsline {subsection}{\numberline {5.2.9}Rank versus Proviral Load}{69}{subsection.119}
+\contentsline {subsection}{\numberline {5.2.10}Prevented Fraction of Disease, F\ensuremath {_{\textrm {P}}}}{71}{subsection.121}
+\contentsline {subsection}{\numberline {5.2.11}Detection of HTLV-I specific CD8$^+$ T cells}{71}{subsection.125}
+\contentsline {subsection}{\numberline {5.2.12}HTLV-I Proteome}{72}{subsection.126}
+\contentsline {section}{\numberline {5.3}Results}{73}{section.127}
+\contentsline {subsection}{\numberline {5.3.1}Verification of Epitope Prediction Software}{73}{subsection.128}
+\contentsline {subsection}{\numberline {5.3.2}Protective class I alleles bind HBZ strongly}{74}{subsection.133}
+\contentsline {subsection}{\numberline {5.3.3}Asymptomatic carriers bind HBZ more strongly than HAM/TSP patients}{77}{subsection.136}
+\contentsline {subsection}{\numberline {5.3.4}Individuals whose HLA class I genotype predisposed them to bind HBZ peptides strongly had a significantly lower proviral load}{78}{subsection.142}
+\contentsline {subsection}{\numberline {5.3.5}HBZ Peptide Binding is a Consistent Predictor of Proviral Load}{81}{subsection.144}
+\contentsline {subsection}{\numberline {5.3.6}Proteins whose peptides are bound strongly by asymptomatic carriers are those associated with a lower proviral load}{81}{subsection.146}
+\contentsline {subsection}{\numberline {5.3.7}The Prevented Fraction of Disease, F\ensuremath {_{\textrm {P}}}}{84}{subsection.152}
+\contentsline {subsection}{\numberline {5.3.8}HBZ Specific CD8$^+$ T Cells can be Detected \emph {ex vivo}}{84}{subsection.153}
+\contentsline {subsection}{\numberline {5.3.9}The Comparative Immunogenicity of HBZ and Tax}{85}{subsection.154}
+\contentsline {section}{\numberline {5.4}Discussion}{87}{section.157}
+\contentsline {chapter}{\numberline {6}Antigen Expression as a Determinant of CTL Lysis in HTLV-I Infection}{90}{chapter.158}
+\contentsline {section}{\numberline {6.1}Introduction}{90}{section.159}
+\contentsline {section}{\numberline {6.2}Methods}{92}{section.160}
+\contentsline {subsection}{\numberline {6.2.1}PBMC Separation}{92}{subsection.161}
+\contentsline {subsection}{\numberline {6.2.2}Cell Culture}{92}{subsection.162}
+\contentsline {subsection}{\numberline {6.2.3}Flow Cytometric Detection of Tax Expression}{92}{subsection.163}
+\contentsline {subsection}{\numberline {6.2.4}Rate of CD8$^+$ Cell-mediated Lysis}{93}{subsection.164}
+\contentsline {subsubsection}{\numberline {6.2.4.1}Bootstrap}{95}{subsubsection.172}
+\contentsline {section}{\numberline {6.3}Results}{95}{section.173}
+\contentsline {subsection}{\numberline {6.3.1}Modeling Tax expression}{95}{subsection.174}
+\contentsline {subsection}{\numberline {6.3.2}The CD8$^+$ Antiviral Efficacy Assay}{96}{subsection.177}
+\contentsline {section}{\numberline {6.4}Discussion}{96}{section.183}
+\contentsline {chapter}{\numberline {7}The KIR Gene Cluster and HTLV-I}{103}{chapter.184}
+\contentsline {section}{\numberline {7.1}Introduction}{103}{section.185}
+\contentsline {section}{\numberline {7.2}Methods}{104}{section.186}
+\contentsline {subsection}{\numberline {7.2.1}Database}{104}{subsection.187}
+\contentsline {subsection}{\numberline {7.2.2}Tested Associations}{104}{subsection.188}
+\contentsline {section}{\numberline {7.3}Results}{105}{section.191}
+\contentsline {section}{\numberline {7.4}Discussion}{107}{section.196}
+\contentsline {chapter}{\numberline {8}Conclusion}{108}{chapter.197}
+\contentsline {section}{\numberline {8.1}Introduction}{108}{section.198}
+\contentsline {section}{\numberline {8.2}A Summary of Results by Chapter}{110}{section.206}
+\contentsline {subsection}{\numberline {8.2.1}Refining HLA class I Allele Associations}{110}{subsection.207}
+\contentsline {subsection}{\numberline {8.2.2}Rescaling in Epitope Prediction}{110}{subsection.212}
+\contentsline {subsection}{\numberline {8.2.3}Using Predicted Binding Affinities}{111}{subsection.213}
+\contentsline {subsection}{\numberline {8.2.4}Understanding CTL Lysis and Antigen Expression}{112}{subsection.219}
+\contentsline {subsection}{\numberline {8.2.5}The KIR:HLA Relationship in HTLV-I Infection}{113}{subsection.223}
+\contentsline {section}{\numberline {8.3}Final Remarks}{113}{section.226}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Supplementary Data for Chapter 4}{115}{appendix.228}
+\contentsline {section}{\numberline {A.1}Datasets}{115}{section.229}
+\contentsline {section}{\numberline {A.2}The HIV HXB2 Proteome}{124}{section.238}
+\contentsline {section}{\numberline {A.3}The Effect of Set Size on ROC Curves}{124}{section.241}
+\contentsline {chapter}{\numberline {B}Supplementary Data for Chapter 5}{128}{appendix.244}
+\contentsline {section}{\numberline {B.1}The SIR Score}{128}{section.245}
+\contentsline {section}{\numberline {B.2}Multiple and logistic regression}{129}{section.247}
+\contentsline {section}{\numberline {B.3}Methods of epitope definition}{129}{section.250}
+\contentsline {section}{\numberline {B.4}The relationship between the CD8$^+$ T cell functional response and binding specificity}{132}{section.252}
+\contentsline {chapter}{\numberline {C}Supplementary Data for Chapter 6}{143}{appendix.262}
+\vspace {2em}
+\contentsline {chapter}{Associated Publications}{152}{dummy.273}
+\contentsline {chapter}{Bibliography}{153}{dummy.278}

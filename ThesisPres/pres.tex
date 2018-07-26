@@ -1,0 +1,796 @@
+\documentclass[slidescentered,compress]{beamer}
+
+% compiled on i2 using:
+% pdflatex pfizer1.tex
+
+\usepackage{beamerthemesplit}
+\usetheme{JuanLesPins}
+
+%\usepackage{pstricks}
+\usepackage{xcolor}
+\usepackage{moreverb,epsfig,color,subfigure}
+\usepackage{hyperref}
+
+\usepackage{textpos}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{subfigure}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+
+\usepackage{bigstrut}
+\usepackage{rotating}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{tabulary}
+
+\beamertemplateballitem
+
+\setbeamercolor{postit}{fg=black,bg=yellow}
+
+\title[HLA Class I protection in HTLV-I infection]{HLA Class I protection in HTLV-I infection}
+\author{Aidan MacNamara \\ \texttt{aidan.macnamara@imperial.ac.uk}}
+\date{September 20, 2010}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\section*{Outline}
+\frame{\tableofcontents}
+
+\section{Introduction}
+\subsection{The Virus}
+
+\frame
+{
+\begin{columns}[c]
+
+\begin{column}{6cm}
+\frametitle{Human T-lymphotropic virus (Type 1)}
+\begin{figure}
+	\pgfimage[width=5cm]{images/htlv}
+	\caption{Stylised Human T-lymphotropic virus}
+\end{figure}
+\end{column}
+
+\begin{column}{4cm}
+\begin{itemize}
+\item Family Retroviridae 
+\item Up to 20 million people infected  
+\item Endemic: Japan, South America, Caribbean
+\item Infects T-cells, mitosis / cell-cell transmission
+\end{itemize}
+\end{column}
+
+\end{columns}
+}
+
+\subsection{Why study this virus?}
+
+\frame
+{
+\frametitle{Individuals Infected with HTLV-I}
+
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lll}
+95\% & $\rightarrow$ & Asymptomatic Carriers (ACs) \\ 
+2-3\% & $\rightarrow$ & Chronic Inflammatory Diseases e.g.~HAM/TSP \\ 
+2-3\% & $\rightarrow$ & Leukaemia (ATL) \\
+\end{tabular}
+\end{table}
+
+\pause
+
+\begin{block}{Question}
+What determines these different outcomes to infection?
+\end{block}
+
+}
+
+\frame
+{
+\frametitle{What determines these different outcomes to infection?}
+
+Differences in the host immune response?
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\begin{itemize}
+\item Certain MHC class I alleles confer protection in individuals
+\item Protective - A*02 and Cw*08
+\item Detrimental - B*54
+\end{itemize}
+\end{column}
+
+%\pause
+
+\begin{column}{5cm}
+\begin{figure}
+	\pgfimage[width=5cm]{images/mhc1}
+\end{figure}
+
+%\pause
+
+\begin{figure}
+	\pgfimage[width=5cm]{images/mhc2}
+\end{figure}
+\end{column}
+\end{columns}
+}
+
+\frame
+{
+\frametitle{What determines these different outcomes to infection?}
+
+\begin{columns}[c]
+
+\begin{column}{4cm}
+\begin{figure}
+	\pgfimage[width=4cm]{images/mhc3}
+	\caption{The T-cell receptor recognizes antigens bound to MHC class I}
+\end{figure}
+\end{column}
+
+\pause
+
+\begin{column}{6cm}
+\begin{itemize}
+\item Why do specific forms of the MHC class I genotype afford greater protection than others?
+\item Differences in the cytotoxic T lymphocyte (CTL) immune response that they restrict?
+\end{itemize}
+\end{column}
+\end{columns}
+
+}
+
+\subsection{Aim}
+
+\frame
+{
+\frametitle{What is the role of the CD8$^+$ T cell response?}
+
+\begin{itemize}
+\item Test and improve existing epitope prediction software in order to predict HTLV-I epitopes
+\item Test hypotheses about the epitope properties of protective and detrimental alleles
+\item Model the CD8$^+$ T cell response in terms of its rate of lysis of infected CD4$^+$ T cells
+\item Further understand the role of CTLs and NK cells in HTLV-I infection
+\end{itemize}
+
+}
+
+\section{Method}
+\subsection{Overall Scheme}
+
+\frame
+{
+\frametitle{How to answer the question?}
+
+Cohort of HTLV-I infected individuals:
+
+\begin{itemize}
+\item 202 asymptomatic carriers
+\item 230 HAM/TSP patients
+\item MHC class I genotype
+\item Proviral load
+\end{itemize}
+
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lllll}
+HTLV-I genome & $\rightarrow$ & & & Proviral Load \\
+& & Predicted Epitopes & $\approx$ & \\
+MHC Class I & $\rightarrow$ & & & Disease Status
+\end{tabular}
+\end{table}
+
+}
+
+\subsection{Epitope Prediction Software}
+
+\frame
+{
+\frametitle{Software Development}
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\begin{figure}
+	\pgfimage[width=5cm]{images/pred}
+	\caption{ROC curve that illustrates epitope prediction performance}
+\end{figure}
+\end{column}
+
+\begin{column}{5cm}
+
+Current Software
+
+\begin{itemize}
+\item NetMHC - predicts peptide-MHC binding
+\item NetCTL - also predicts TAP and cleavage events
+\item Normalise predicted binding affinities
+\end{itemize}
+\end{column}
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{Software Development}
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\begin{figure}
+	\pgfimage[width=5cm]{images/pred}
+	\caption{ROC curve that illustrates epitope prediction performance}
+\end{figure}
+\end{column}
+
+\begin{column}{5cm}
+
+Metaserver (MacNamara et al.~PLoS Comp.~Biol.~2009)
+
+\begin{itemize}
+\item Removes normalising function	
+\item Significant improvement in accuracy
+\end{itemize}
+\end{column}
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{The Rank Method}
+
+\scriptsize
+{
+\begin{table}[htp]
+\centering
+\begin{tabular}{c|c|c|c|c|c|c|c|}
+
+\cline{2-8}
+&& \multicolumn{2}{c|}{A*02} & \multicolumn{2}{c|}{B*54} & \multicolumn{2}{c|}{C*08} \bigstrut \\
+\cline{2-8}
+\multirow{3}{*}{\begin{sideways}Strong\end{sideways}} & 1 & Gag & TPKDKTKVL & Tax & LPTTLFQPA & Tax & YLYQLSPPI  \bigstrut[t] \\
+& 2 & Pol & PADPKEKDL & Pro & LPVIPLDPA & Tax & LLFGYPVYV \\
+& 3 & Rof & RPPPAPCLL & Env & FPFSLLVDA & Pol & ALLGEIQWV \\
+& 4 & P12 & RPPPAPCLL & Pol & MPVFTLSPV & Pol & SLISHGLPV \\
+& 5 & Gag & NANKECQKL & Rof & LPITMRFPA & Pol & FQPYFAFTV \\
+& 6 & Gag & ANNPQQQGL & P12 & LPITMRFPA & Gag & FMQTIRLAV \\
+\multirow{3}{*}{\begin{sideways}Weak\end{sideways}} & 7 & Gag & GAPPNHRPW & Pro & LPFRTTPIV & Pol & LTYDAVPTV \\
+& \ldots & \ldots & \ldots & \ldots & \ldots & \ldots & \ldots \\
+& 3389 & P12 & LLLFLLPPS & Tax & DNDHEPQIS & Tax & DNDHEPQIS \bigstrut[b] \\
+\cline{2-8}
+
+\end{tabular}
+\end{table}
+
+}
+
+\pause 
+
+\normalsize
+\begin{itemize}
+\item From Borghans et al.~2007
+\item Defines how well an allele binds a specific protein
+\item Example: A*02-Gag $\rightarrow$ 1,5,6,7...
+\end{itemize}
+}
+
+
+\section{Results}
+
+\subsection{Software Validation}
+
+\frame
+{
+\frametitle{Software Validation for HTLV-I}
+
+\begin{columns}[c]
+
+\begin{column}{6cm}
+\begin{figure}
+	\pgfimage[width=6cm]{images/figure_1}
+\end{figure}
+\end{column}
+
+\begin{column}{4cm}
+\begin{itemize}
+\item Predicted versus laboratory binding affinities
+\item 50 HTLV-I peptides for 4 alleles
+\item Strong correlation found
+\end{itemize}
+\end{column}
+
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{Software Validation for HTLV-I}
+
+\begin{block}{Conclusion}
+Metaserver and Epipred predict MHC class I binding affinity to HTLV-I peptides with good accuracy
+\end{block}
+}
+
+
+\subsection{Binding as a predictor of disease}
+
+\frame
+{
+\frametitle{Do protective alleles bind different proteins?}
+
+Do protective alleles (A*02 and Cw*08) have a different binding specificity compared to the detrimental allele (B*54)?
+
+}
+
+
+%\frame
+%{
+%\frametitle{The Rank Method}
+%
+%\scriptsize
+%{
+%\begin{table}[htp]
+%\centering
+%\begin{tabular}{c|c|c|c|c|c|c|c|}
+%
+%\cline{2-8}
+%&& \multicolumn{2}{c|}{A*02} & \multicolumn{2}{c|}{B*54} & \multicolumn{2}{c|}{C*08} \bigstrut \\
+%\cline{2-8}
+%\multirow{3}{*}{\begin{sideways}Strong\end{sideways}} & 1 & \cellcolor[gray]{0.7} Gag & TPKDKTKVL & Tax & LPTTLFQPA & Tax & YLYQLSPPI  \bigstrut[t] \\
+%& 2 & Pol & PADPKEKDL & Pro & LPVIPLDPA & Tax & LLFGYPVYV \\
+%& 3 & Rof & RPPPAPCLL & Env & FPFSLLVDA & Pol & ALLGEIQWV \\
+%& 4 & P12 & RPPPAPCLL & Pol & MPVFTLSPV & Pol & SLISHGLPV \\
+%& 5 & Gag & NANKECQKL & Rof & LPITMRFPA & Pol & FQPYFAFTV \\
+%& 6 & Gag & ANNPQQQGL & P12 & LPITMRFPA & Gag & FMQTIRLAV \\
+%\multirow{3}{*}{\begin{sideways}Weak\end{sideways}} & 7 & Gag & GAPPNHRPW & Pro & LPFRTTPIV & Pol & LTYDAVPTV \\
+%& \ldots & \ldots & \ldots & \ldots & \ldots & \ldots & \ldots \\
+%& 3389 & P12 & LLLFLLPPS & Tax & DNDHEPQIS & Tax & DNDHEPQIS \bigstrut[b] \\
+%\cline{2-8}
+%
+%\end{tabular}
+%\end{table}
+%
+%}
+%}
+
+\frame
+{
+\frametitle{Do protective alleles bind different proteins?}
+
+\begin{columns}[c]
+
+\begin{column}{6cm}
+\begin{figure}
+	\pgfimage[width=6cm]{images/figure_2}
+\end{figure}
+\end{column}
+
+\pause
+
+\begin{column}{4cm}
+\begin{block}{Conclusion}
+Protective alleles (A*02 and Cw*08) bind HBZ significantly more strongly than a detrimental allele (B*54)
+\end{block}
+\end{column}
+
+\end{columns}
+}
+
+\frame
+{
+\frametitle{Do ACs and HAM/TSP patients bind different proteins?}
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lll}
+202 AC individuals & & Predicted epitopes \\
+HLA class I type & $\longrightarrow$ & from each protein \\
+\\
+& & \bf{Vs.} \\
+\\
+230 HAM/TSP individuals & & Predicted epitopes \\
+HLA class I type & $\longrightarrow$ & from each protein \\
+\end{tabular}
+\end{table}
+}
+
+\frame
+{
+\frametitle{Do ACs and HAM/TSP patients bind different proteins?}
+
+\begin{columns}[c]
+
+\begin{column}{6cm}
+\begin{figure}
+	\pgfimage[width=5cm]{images/figure_3}
+\end{figure}
+\end{column}
+
+\pause
+
+\begin{column}{5cm}
+\begin{block}{Conclusion}
+Asymptomatic carriers possess HLA molecules that strongly bind HBZ
+\end{block}
+\end{column}
+
+\end{columns}
+}
+
+
+\frame
+{
+\frametitle{Why is binding HBZ protective?}
+
+\begin{block}{Hypothesis}
+Binding HBZ is associated with a reduced proviral load
+\end{block}
+
+}
+
+\frame
+{
+\frametitle{Why is binding HBZ protective?}
+
+\begin{figure}
+	\pgfimage[width=8cm]{images/figure_4}
+\end{figure}
+
+}
+
+\frame
+{
+\frametitle{Why is binding HBZ protective?}
+
+\begin{block}{Conclusion}
+Binding HBZ is associated with a reduced proviral load
+\end{block}
+
+}
+
+
+
+\frame
+{
+\frametitle{Is There a Link Between risk and proviral load with other proteins?}
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\begin{figure}
+	\pgfimage[width=5cm]{images/figure_5}
+\end{figure}
+\end{column}
+
+\begin{column}{5cm}
+For each protein 2 hypotheses were tested:
+\begin{itemize}
+\item Binding the protein is associated with reduced HAM/TSP risk
+\item Binding the protein is associated with reduced proviral load
+\end{itemize}
+\end{column}
+
+\end{columns}
+}
+
+\frame
+{
+\frametitle{Is There a Link Between risk and proviral load with other proteins?}
+
+\begin{block}{Conclusion}
+\begin{itemize}
+\pause
+\item ACs possess alleles that bind more strongly to proteins associated with a reduced proviral load
+\pause
+\item This is not related to immunogenicity
+\pause
+\item Strong evidence of a protective CTL response (MacNamara et al. PLoS Pathogens, 2010)
+\end{itemize}
+\end{block}
+
+}
+
+
+%\frame
+%{
+%\frametitle{Binding specificity is a better predictor of load}
+%
+%\scriptsize
+%{
+%\begin{table}[htp]
+%\centering
+%
+%\begin{tabular}{|l|l|l|l|l|l|l|}
+%\hline
+%& \multicolumn{3}{c|}{Binding (A and B only)} & \multicolumn{3}{c|}{Genotype (A and B only)} \bigstrut \\
+%\hline
+%\multirow{3}{*}{AC Proviral Load} & HBZ & 0.001 & *** & \multirow{2}{*}{A*02} & \multirow{2}{*}{0.01} & \multirow{2}{*}{**} \bigstrut[t] \\
+%& Pro & 0.013 & * & & & \bigstrut[b] \\
+%\cline{2-7}
+%& \multicolumn{3}{c|}{$R^2 = 0.054$} & \multicolumn{3}{c|}{$R^2 = 0.034$} \bigstrut \\
+%\hline
+%\multirow{2}{*}{HAM/TSP Proviral Load} & HBZ & 0.017 & * & B*54 & 0.019 & * \bigstrut \\
+%\cline{2-7}
+%& \multicolumn{3}{c|}{$R^2 = 0.026$} & \multicolumn{3}{c|}{$R^2 = 0.025$} \bigstrut \\
+%\hline
+%\end{tabular}	
+%\end{table}
+%}
+%
+%}
+
+
+
+\subsection{Theory to experiment}
+
+\frame
+{
+\frametitle{Can we detect HBZ-specific CTL?}
+
+\begin{columns}[c]
+
+\begin{column}{6cm}
+\begin{figure}
+\pgfimage[width=6cm]{images/exper}
+\caption{IFN-$\gamma$ ELISpot that demonstrates a CTL response against HBZ from a HTLV infected patient (compared to control, left)}
+\end{figure}
+\end{column}
+
+\begin{column}{4cm}
+\begin{itemize}
+\item Detection of HBZ-specific CD8$^+$ T cells (IFN$\gamma$, CD107a)
+\item Demonstration of HBZ-specific lysis (B-LCL, naturally infected)
+\end{itemize}
+\end{column}
+
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{Why HBZ?}
+
+\begin{table}[htbp]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabulary}{10cm}{|L|c|L|}
+\cline{1-1}
+\cline{3-3}
+HBZ inhibits expression of other HTLV-I genes & & HBZ expression drives infected cell proliferation \\
+$\Rightarrow$Protects cell from immune response & & \\ 
+\cline{1-1}
+\cline{3-3}
+\multicolumn{3}{c}{$\Downarrow$} \\ 
+\end{tabulary}
+\end{table}
+
+\begin{block}{Hypothesis}
+HBZ expressing cells have a survival advantage and blocking this pathway is important
+\end{block}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\subsection{The role of CTLs and NK cells}
+
+\frame
+{
+\frametitle{The rate of lysis of infected cells}
+
+\begin{columns}[l]
+
+\begin{column}{6cm}
+
+\begin{figure}
+\pgfimage[width=6cm]{images/assay}
+\end{figure}
+
+\begin{equation*}
+\frac{dy}{dt} = c - \epsilon y z
+\end{equation*}
+
+\end{column}
+
+\begin{column}{4cm}
+\begin{itemize}
+\item Flow Cytometry detects level of Tax expression
+\item CD8$^+$ T cells added at increasing concentrations
+\item The lysis rate measured using model
+\end{itemize}
+\end{column}
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{The rate of lysis of infected cells}
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\begin{block}{Time course of tax expression}
+Target CD4$^+$ cells divided into Tax$^{high}$ and Tax$^{low}$ 
+\end{block}
+
+\begin{figure}
+\pgfimage[width=4cm]{images/figure_timecourse_hap}
+\end{figure}
+
+%\begin{equation*}
+%\begin{array}{ccl}
+%\frac{dy}{dt} &=& c_1 - c_2y  \\
+%\\
+%\frac{dw}{dt} &=& c_{2}y \\
+%\end{array}
+%\end{equation*}
+
+\end{column}
+
+\pause
+
+\begin{column}{5cm}
+
+\begin{block}{Lysis of CD4$^+$ cells}
+Rate of lysis measured for Tax$^{high}$ and Tax$^{low}$
+\end{block}
+
+\begin{figure}
+\pgfimage[width=4cm]{images/figure_lysis_hap_rep_1}
+\end{figure}
+
+\end{column}
+
+\end{columns}
+
+}
+
+\frame
+{
+\frametitle{The rate of lysis of infected cells}
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\pgfimage[width=5cm]{images/pairedEpsilon}
+\end{column}
+
+\begin{column}{5cm}
+\begin{itemize}
+\item Target CD4$^+$ cells are killed quicker when expressing higher levels of Tax
+\item MacNamara et al. J.~Immunol. 2009
+\end{itemize}
+\end{column}
+
+\end{columns}
+}
+
+%\frame
+%{
+%\frametitle{The role of KIR-HLA interactions}
+%\begin{columns}[c]
+%\begin{column}{5cm}
+%\begin{figure}
+%\pgfimage[width=2.5cm]{images/figureActivAC}%
+%\hspace{0cm}%
+%\pgfimage[width=2.5cm]{images/figureActivHAM} \\
+%\pgfimage[width=2.5cm]{images/figureInhibAC}%
+%\hspace{0cm}%
+%\pgfimage[width=2.5cm]{images/figureInhibHAM} \\
+%\end{figure}
+%\end{column}
+%\begin{column}{5cm}
+%\begin{itemize}
+%\item KIR:HLA interactions - shown to be protective in some diseases
+%\item No significant association with disease status or proviral load in HTLV-I
+%\end{itemize}
+%\end{column}
+%\end{columns}
+%}
+
+\section{Conclusion}
+
+\begin{enumerate}
+
+\frame
+{
+\frametitle{Summary}
+
+\footnotesize
+{
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\pgfimage[width=2.5cm]{images/pred}
+\item Developed accurate epitope prediction software
+\pgfimage[width=2.5cm]{images/figure_1_conclusion}
+\item Validated software experimentally for 200 HTLV-I peptides
+\end{column}
+
+\begin{column}{5cm}
+\pgfimage[width=3cm]{images/figure_2}
+\item Protective alleles bind HBZ more strongly than a detrimental allele 
+\pgfimage[width=2.5cm]{images/figure_3}
+\item ACs have HLA alleles which are specific for HBZ
+\end{column}
+
+\end{columns}
+}
+}
+
+\frame
+{
+\frametitle{Summary}
+
+\footnotesize
+{
+
+\begin{columns}[c]
+
+\begin{column}{5cm}
+\pgfimage[width=2.5cm]{images/figure_4}
+\item Binding HBZ is associated with a reduced proviral load
+\pgfimage[width=2.5cm]{images/figure_5}
+\item Proteins that are preferentially targeted by ACs are those associated with a greater reduction in load when bound
+\end{column}
+
+\begin{column}{5cm}
+\pgfimage[width=3cm]{images/exper}
+\item HBZ-specific responses exist 
+\pgfimage[width=3cm]{images/figure_lysis_hap_rep_1}
+\item Antigen expression levels affect lysis rate and no KIR:HLA associations were found
+\end{column}
+
+\end{columns}
+}
+}
+
+\end{enumerate}
+
+\section*{Acknowledgements}
+
+\frame
+{
+
+Primary supervisor: Dr.~B Asquith
+
+Secondary supervisor: Prof.~Charles Bangham
+
+\vspace{0.5cm}
+
+Collaborators \& Data:
+\begin{itemize}
+\item Aileen Rowan, Silva Youshya
+\item Ulrich Kadolsky 
+\end{itemize}
+
+\vspace{0.5cm}
+
+\begin{figure}
+\begin{center}
+\pgfimage[width=5cm]{images/wellcome}
+\end{center}
+\end{figure}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% END OF %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}

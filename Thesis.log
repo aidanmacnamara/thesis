@@ -1,0 +1,1954 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.2.19)  18 JUL 2010 21:44
+entering extended mode
+ %&-line parsing enabled.
+**Thesis
+(./Thesis.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./Thesis.cls
+Document Class: Thesis 2007/22/02 v1.0 LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+) (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v1.2d
+\athelp@=\toks19
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+)
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks25
+)
+(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+\c@example=\count100
+\c@theorem=\count101
+
+(/usr/share/texmf-dist/tex/latex/ccaption/ccaption.sty
+Package: ccaption 2005/03/29 v3.2a Extended captioning and new floats
+\@contcwidth=\skip58
+\@contindw=\skip59
+\abovelegendskip=\skip60
+\belowlegendskip=\skip61
+\c@newflo@tctr=\count102
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2007/01/07 v3.0k Customising captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+\captionmargin=\dimen117
+\captionmarginx=\dimen118
+\captionwidth=\dimen119
+\captionindent=\dimen120
+\captionparindent=\dimen121
+\captionhangindent=\dimen122
+)
+Package caption Info: longtable package v3.15 (or newer) detected on input line
+ 359.
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2006/08/26 v1.3 Conversion with epstopdf on the fly (HO)
+
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
+) (/usr/share/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip62
+\subfigcapskip=\skip63
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip64
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip65
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip66
+\subfig@bottom=\skip67
+)
+(/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/03/16 v1.6180 publication quality tables
+\heavyrulewidth=\dimen127
+\lightrulewidth=\dimen128
+\cmidrulewidth=\dimen129
+\belowrulesep=\dimen130
+\belowbottomsep=\dimen131
+\aboverulesep=\dimen132
+\abovetopsep=\dimen133
+\cmidrulesep=\dimen134
+\cmidrulekern=\dimen135
+\defaultaddspace=\dimen136
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen137
+\@belowrulesep=\dimen138
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen139
+)
+(/usr/share/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 1997/09/26, v2.13 Rotation package
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count112
+\rot@float@box=\box28
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count113
+\lst@gtempboxa=\box29
+\lst@token=\toks27
+\lst@length=\count114
+\lst@currlwidth=\dimen140
+\lst@column=\count115
+\lst@pos=\count116
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count117
+\lst@lineno=\count118
+\c@lstlisting=\count119
+\lst@maxwidth=\dimen143
+ (./lstpatch.sty
+File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box30
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/10/17 1.3b (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen144
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2238
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 2238.
+Package hyperref Info: Option `colorlinks' set `true' on input line 2238.
+Package hyperref Info: Option `unicode' set `true' on input line 2238.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2007/02/07 v6.75r Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 2238.
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count124
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+\Choice@toks=\toks28
+\Field@toks=\toks29
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring ON on input line 3120.
+\Hy@abspage=\count125
+\c@Item=\count126
+\c@Hfootnote=\count127
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+)
+\c@dummy=\count129
+
+(/usr/share/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count130
+\LTcapwidth=\dimen147
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count131
+\LT@rows=\count132
+\c@LT@tables=\count133
+\c@LT@chunks=\count134
+\LT@p@ftn=\toks30
+))
+(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2007/02/05 8.0 (PWD)
+\bibhang=\skip72
+\bibsep=\skip73
+LaTeX Info: Redefining \cite on input line 602.
+\c@NAT@ctr=\count135
+)
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks31
+\verbatim@line=\toks32
+\verbatim@in@stream=\read1
+) (./vector.sty
+Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
+
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count136
+\calc@Bcount=\count137
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count138
+\calc@Cskip=\skip76
+)
+\c@vec@elem=\count139
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen150
+)
+(/usr/share/texmf-dist/tex/latex/multirow/bigstrut.sty)
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+(/usr/share/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2003/09/14 v0.8 tabulary package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen151
+\extrarowheight=\dimen152
+\NC@list=\toks34
+\extratabsurround=\skip77
+\backup@length=\skip78
+)
+\TY@count=\count140
+\TY@linewidth=\dimen153
+\tymin=\dimen154
+\tymax=\dimen155
+\TY@tablewidth=\dimen156
+)
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+\TX@col@width=\dimen157
+\TX@old@table=\dimen158
+\TX@old@col=\dimen159
+\TX@target=\dimen160
+\TX@delta=\dimen161
+\TX@cols=\count141
+\TX@ftn=\toks35
+)
+(/usr/share/texmf-dist/tex/generic/dvips/rotate.sty
+\@rotdimen=\dimen162
+\@rotbox=\box35
+)
+(/usr/share/texmf-site/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-site/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-site/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks36
+)
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2008/02/20 v2.00 (rcs-revision 1.21)
+))
+Package: pgf 2008/01/15 v2.00 (rcs-revision 1.12)
+
+(/usr/share/texmf-site/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-site/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2008/02/07 v2.00 (rcs-revision 1.31)
+
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+)
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\c@pgf@counta=\count142
+\c@pgf@countb=\count143
+\c@pgf@countc=\count144
+\c@pgf@countd=\count145
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/01/13  (rcs-revision 1.6)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 885.
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2007/12/20  (rcs-revision 1.20)
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2007/12/17  (rcs-revision 1.8)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/01/23  (rcs-revision 1.6)
+\pgfsyssoftpath@smallbuffer@items=\count146
+\pgfsyssoftpath@bigbuffer@items=\count147
+)
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf-site/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2008/01/15 v2.00 (rcs-revision 1.6)
+
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgfmath@box=\box36
+)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@stack=\toks39
+\c@pgfmath@parsecounta=\count148
+\c@pgfmath@parsecountb=\count149
+\c@pgfmath@parsecountc=\count150
+\pgfmath@parsex=\dimen171
+)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathoperations.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathtrig.code.tex)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathrnd.code.tex))
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathbase.code.tex)))
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2008/02/03  (rcs-revision 1.13)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2008/02/13  (rcs-revision 1.14)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/01/23  (rcs-revision 1.11)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2008/01/15  (rcs-revision 1.26)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count151
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2007/12/12  (rcs-revision 1.8)
+\pgflinewidth=\dimen190
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2008/02/04  (rcs-revision 1.10)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2008/01/23  (rcs-revision 1.7)
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2007/06/07  (rcs-revision 1.8)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2007/12/10  (rcs-revision 1.9)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count152
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfexternal@startupbox=\box40
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2008/01/15  (rcs-revision 1.1)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2008/01/15  (rcs-revision 1.1)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2008/02/13  (rcs-revision 1.4)
+\pgfnodeparttextbox=\box41
+\toks@savedmacro=\toks40
+)
+(/usr/share/texmf-site/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgf@plotwrite=\write3
+)
+(/usr/share/texmf-site/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.00 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+)
+(/usr/share/texmf-site/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.00 (rcs-revision 1.1)
+))
+(/usr/share/texmf-site/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2007/11/07 v2.00 (rcs-revision 1.8)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2008/02/13 v2.00 (rcs-revision 1.27)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2007/03/09 v2.00 (rcs-revision 1.9)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen200
+\tikz@lasty=\dimen201
+\tikz@lastxsaved=\dimen202
+\tikz@lastysaved=\dimen203
+\tikzleveldistance=\dimen204
+\tikzsiblingdistance=\dimen205
+\tikz@figbox=\box42
+\tikz@tempbox=\box43
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+ (/usr/share/texmf-site/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2007/06/07 v2.00 (rcs-revision 1.7)
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2008/02/12 v2.00 (rcs-revision 1.10)
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryshapes.arrows.code.t
+ex
+File: pgflibraryshapes.arrows.code.tex 2007/11/10 v2.00 (rcs-revision 1.3)
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+chains.code.tex
+File: tikzlibrarychains.code.tex 2008/02/12 v2.00 (rcs-revision 1.4)
+)
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+matrix.code.tex
+File: tikzlibrarymatrix.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+)
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/02/12 v2.00 (rcs-revision 1.5)
+)
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+scopes.code.tex
+File: tikzlibraryscopes.code.tex 2008/02/08 v2.00 (rcs-revision 1.1)
+)
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen206
+\pgfdecoratedremainingdistance=\dimen207
+\pgfdecoratedinputsegmentcompleteddistance=\dimen208
+\pgfdecoratedinputsegmentremainingdistance=\dimen209
+\pgf@decorate@distancetomove=\dimen210
+\pgf@decorate@repeatstate=\count162
+\pgfdecorationsegmentamplitude=\dimen211
+\pgfdecorationsegmentlength=\dimen212
+))
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibrarydecorations.pathmorp
+hing.code.tex))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v2.00 (rcs-revision 1.3)
+
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+fadings.code.tex
+File: tikzlibraryfadings.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v2.00 (rcs-revision 1.3)
+)))
+(./Thesis.aux)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+ (/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(/usr/share/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip79
+\RaggedLeftLeftskip=\skip80
+\RaggedRightLeftskip=\skip81
+\CenteringRightskip=\skip82
+\RaggedLeftRightskip=\skip83
+\RaggedRightRightskip=\skip84
+\CenteringParfillskip=\skip85
+\RaggedLeftParfillskip=\skip86
+\RaggedRightParfillskip=\skip87
+\JustifyingParfillskip=\skip88
+\CenteringParindent=\skip89
+\RaggedLeftParindent=\skip90
+\RaggedRightParindent=\skip91
+\JustifyingParindent=\skip92
+)
+Package caption Info: hyperref package v6.74m (or newer) detected on input line
+ 36.
+Package caption Info: listings package v1.2 (or newer) detected on input line 3
+6.
+Package caption Info: rotating package v2.0 (or newer) detected on input line 3
+6.
+Package hyperref Info: Link coloring ON on input line 36.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count163
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+ (./Thesis.out)
+(./Thesis.out)
+\@outlinefile=\write4
+\openout4 = `Thesis.out'.
+
+
+------------------------------------------------------------------------------
+ Title Page
+------------------------------------------------------------------------------
+[1
+
+
+
+{//var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+------------------------------------------------------------------------------
+ Declaration of Authorship
+------------------------------------------------------------------------------
+LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+
+ []
+
+[1
+
+] [2
+
+]
+------------------------------------------------------------------------------
+ Abstract Page
+------------------------------------------------------------------------------
+[3
+
+]
+------------------------------------------------------------------------------
+ Acknowledgements
+------------------------------------------------------------------------------
+[4
+
+]
+------------------------------------------------------------------------------
+ Table of Contents
+------------------------------------------------------------------------------
+(./Thesis.toc [5
+
+
+] [6] [7])
+\tf@toc=\write5
+\openout5 = `Thesis.toc'.
+
+ [8]
+------------------------------------------------------------------------------
+ List of Figures
+------------------------------------------------------------------------------
+(./Thesis.lof [9
+
+
+])
+\tf@lof=\write6
+\openout6 = `Thesis.lof'.
+
+ [10]
+------------------------------------------------------------------------------
+ List of Tables
+------------------------------------------------------------------------------
+(./Thesis.lot [11
+
+
+])
+\tf@lot=\write7
+\openout7 = `Thesis.lot'.
+
+ [12]
+------------------------------------------------------------------------------
+ Abbreviations
+------------------------------------------------------------------------------
+[13
+
+
+
+] [14]
+------------------------------------------------------------------------------
+ Symbols
+------------------------------------------------------------------------------
+
+Overfull \hbox (26.72688pt too wide) in alignment at lines 238--238
+ [] [] [] 
+ []
+
+[15
+
+
+
+] (./Chapters/Chapter1.tex
+Chapter 1.
+------------------------------------------------------------------------------
+ 1 Aim and Overview
+------------------------------------------------------------------------------
+[16
+
+
+]
+Overfull \hbox (16.45421pt too wide) in paragraph at lines 76--77
+ [] 
+ []
+
+[17] [18]) (./Chapters/Chapter2.tex [19]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Introduction
+------------------------------------------------------------------------------
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+Overfull \hbox (10.0921pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10.95 HAM/TSP (HTLV-I as-so-ci-ated myelopa-thy/trop-i-cal spas-ti
+c para-pare-sis) and other chronic
+ []
+
+[20
+
+] [21]
+<./Figures/chapter2/genotype.pdf, id=1012, 1097.09875pt x 442.65375pt>
+File: ./Figures/chapter2/genotype.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter2/genotype.pdf>
+<./Figures/chapter2/distribution.pdf, id=1034, 2008.50375pt x 1019.81pt>
+File: ./Figures/chapter2/distribution.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter2/distribution.pdf> [22 <./Figures/chapter2/genotype.pdf>
+] [23 <./Figures/chapter2/distribution.pdf>] [24]
+Missing character: There is no ’ in font cmr10!
+ [25] [26] [27] [28] [29]
+[30] [31] [32]) (./Chapters/Chapter3.tex [33] [34]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Identifying Alleles Associated with Disease Status and Proviral Load
+------------------------------------------------------------------------------
+[35
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+ [36]
+<./Figures/chapter3/figureWilcoxHam.pdf, id=1360, 561.09625pt x 433.62pt>
+File: ./Figures/chapter3/figureWilcoxHam.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figureWilcoxHam.pdf>
+<./Figures/chapter3/figureWilcoxAC.pdf, id=1361, 561.09625pt x 433.62pt>
+File: ./Figures/chapter3/figureWilcoxAC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figureWilcoxAC.pdf>
+<./Figures/chapter3/figureChi.pdf, id=1364, 561.09625pt x 433.62pt>
+File: ./Figures/chapter3/figureChi.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figureChi.pdf>
+<./Figures/chapter3/figureRobustHAM.pdf, id=1365, 561.09625pt x 433.62pt>
+File: ./Figures/chapter3/figureRobustHAM.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figureRobustHAM.pdf>
+<./Figures/chapter3/figureRobustAC.pdf, id=1366, 561.09625pt x 433.62pt>
+File: ./Figures/chapter3/figureRobustAC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figureRobustAC.pdf>
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [37] [38] [39 <./Figures/chapter3/figureWilcoxHam.pdf> <./Figures/chapter3/fig
+ureWilcoxAC.pdf>])
+(./Chapters/Chapter4.tex [40 <./Figures/chapter3/figureChi.pdf>] [41 <./Figures
+/chapter3/figureRobustHAM.pdf> <./Figures/chapter3/figureRobustAC.pdf>]
+[42]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Rescaling in T-cell Epitope Prediction
+------------------------------------------------------------------------------
+[43
+
+] [44]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 29.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 29.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 29.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 33.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 33.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 33.
+
+[45]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 39.
+
+[46]
+
+Package tabulary Warning: No suitable columns! on input line 82.
+
+[47] [48] <./Figures/chapter4/figure_1A.pdf, id=1503, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/figure_1A.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figure_1A.pdf>
+<./Figures/chapter4/figure_1B.pdf, id=1504, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/figure_1B.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figure_1B.pdf>
+<./Figures/chapter4/figure_1C.pdf, id=1505, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/figure_1C.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figure_1C.pdf>
+<./Figures/chapter4/figure_1D.pdf, id=1506, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/figure_1D.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figure_1D.pdf> [49 <./Figures/chapter4/figure_1A.pdf> <
+./Figures/chapter4/figure_1B.pdf> <./Figures/chapter4/figure_1C.pdf> <./Figures
+/chapter4/figure_1D.pdf>]
+<./Figures/chapter4/rescaleValues.pdf, id=1544, 505.89pt x 433.62pt>
+File: ./Figures/chapter4/rescaleValues.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/rescaleValues.pdf>
+<./Figures/chapter4/randomROC.pdf, id=1545, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/randomROC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/randomROC.pdf> [50 <./Figures/chapter4/rescaleValues.pd
+f>]
+<./Figures/chapter4/figure_2_edit_2.pdf, id=1556, 563.10374pt x 435.6275pt>
+File: ./Figures/chapter4/figure_2_edit_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figure_2_edit_2.pdf> [51 <./Figures/chapter4/randomROC.
+pdf>] <./Figures/chapter4/reducedROC.pdf, id=1568, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/reducedROC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/reducedROC.pdf>
+<./Figures/chapter4/boxplotA.pdf, id=1573, 361.35pt x 433.62pt>
+File: ./Figures/chapter4/boxplotA.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/boxplotA.pdf>
+<./Figures/chapter4/boxplotB.pdf, id=1574, 361.35pt x 433.62pt>
+File: ./Figures/chapter4/boxplotB.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/boxplotB.pdf> [52 <./Figures/chapter4/figure_2_edit_2.p
+df>] [53 <./Figures/chapter4/reducedROC.pdf>] [54 <./Figures/chapter4/boxplotA.
+pdf> <./Figures/chapter4/boxplotB.pdf>]
+<./Figures/chapter4/figureAffinityComp.pdf, id=1622, 561.09625pt x 433.62pt>
+File: ./Figures/chapter4/figureAffinityComp.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figureAffinityComp.pdf>
+<./Figures/chapter4/figureCompareAll.pdf, id=1625, 561.09625pt x 433.62pt>
+File: ./Figures/chapter4/figureCompareAll.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figureCompareAll.pdf>
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [55 <./Figures/chapter4/figureAffinityComp.pdf>] [56 <./Figures/chapter4/figur
+eCompareAll.pdf>]
+<./Figures/chapter4/figureReducedNegative.pdf, id=1649, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/figureReducedNegative.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figureReducedNegative.pdf> [57 <./Figures/chapter4/figu
+reReducedNegative.pdf>]
+<./Figures/chapter4/figureRevArg.pdf, id=1660, 505.89pt x 433.62pt>
+File: ./Figures/chapter4/figureRevArg.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/figureRevArg.pdf> [58 <./Figures/chapter4/figureRevArg.
+pdf>] <./Figures/chapter4/websiteView.pdf, id=1672, 562.1pt x 584.1825pt>
+File: ./Figures/chapter4/websiteView.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/websiteView.pdf>
+Overfull \hbox (5.77359pt too wide) in paragraph at lines 270--270
+[][]\OT1/cmtt/m/n/10 http://linuxwebdev.cc.ic.ac.uk/theoreticalimmunology/trans
+/metaserver.php[][] 
+ []
+
+[59 <./Figures/chapter4/websiteView.pdf>] [60]) (./Chapters/Chapter6.tex
+[61] [62]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 The Prediction of Disease From Peptide Binding Affinities
+------------------------------------------------------------------------------
+[63
+
+]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 13.
+
+Missing character: There is no ’ in font cmr10!
+[64] [65] [66]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+ [67] [68]
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [69]
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+Underfull \hbox (badness 5274) in paragraph at lines 196--196
+\OT1/cmr/m/n/10.95 al-le-les in the
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 196--196
+\OT1/cmr/m/n/10.95 al-le-les in the
+ []
+
+
+Overfull \hbox (2.86906pt too wide) in paragraph at lines 196--198
+ [] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 205.
+
+[70]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 244.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 244.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 244.
+
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+[71] [72]
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+<./Figures/chapter6/lower_res/exper_meta_1.pdf, id=1851, 435.6275pt x 435.6275p
+t>
+File: ./Figures/chapter6/lower_res/exper_meta_1.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_meta_1.pdf>
+<./Figures/chapter6/lower_res/exper_meta_2.pdf, id=1852, 435.6275pt x 435.6275p
+t>
+File: ./Figures/chapter6/lower_res/exper_meta_2.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_meta_2.pdf>
+<./Figures/chapter6/lower_res/exper_meta_3.pdf, id=1853, 435.6275pt x 435.6275p
+t>
+File: ./Figures/chapter6/lower_res/exper_meta_3.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_meta_3.pdf>
+<./Figures/chapter6/lower_res/exper_meta_4.pdf, id=1854, 435.6275pt x 435.6275p
+t>
+File: ./Figures/chapter6/lower_res/exper_meta_4.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_meta_4.pdf>
+<./Figures/chapter6/lower_res/exper_epi_1.pdf, id=1855, 435.6275pt x 435.6275pt
+>
+File: ./Figures/chapter6/lower_res/exper_epi_1.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_epi_1.pdf>
+<./Figures/chapter6/lower_res/exper_epi_2.pdf, id=1856, 435.6275pt x 435.6275pt
+>
+File: ./Figures/chapter6/lower_res/exper_epi_2.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_epi_2.pdf>
+<./Figures/chapter6/lower_res/exper_epi_3.pdf, id=1857, 435.6275pt x 435.6275pt
+>
+File: ./Figures/chapter6/lower_res/exper_epi_3.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_epi_3.pdf>
+<./Figures/chapter6/lower_res/exper_epi_4.pdf, id=1858, 435.6275pt x 435.6275pt
+>
+File: ./Figures/chapter6/lower_res/exper_epi_4.pdf Graphic file (type pdf)
+ <use ./Figures/chapter6/lower_res/exper_epi_4.pdf> [73
+
+] [74 <./Figures/chapter6/lower_res/exper_meta_1.pdf> <./Figures/chapter6/lower
+_res/exper_meta_2.pdf> <./Figures/chapter6/lower_res/exper_meta_3.pdf> <./Figur
+es/chapter6/lower_res/exper_meta_4.pdf>]
+<./Figures/chapter6/fig_2_edit.pdf, id=1893, 435.6275pt x 363.3575pt>
+File: ./Figures/chapter6/fig_2_edit.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/fig_2_edit.pdf>
+Overfull \hbox (0.84084pt too wide) in paragraph at lines 354--354
+[]\OT1/cmr/bx/n/12 Asymptomatic car-ri-ers bind HBZ more strongly than HAM/TSP
+ []
+
+[75 <./Figures/chapter6/lower_res/exper_epi_1.pdf> <./Figures/chapter6/lower_re
+s/exper_epi_2.pdf> <./Figures/chapter6/lower_res/exper_epi_3.pdf> <./Figures/ch
+apter6/lower_res/exper_epi_4.pdf>] [76 <./Figures/chapter6/fig_2_edit.pdf>]
+Underfull \hbox (badness 3271) in paragraph at lines 383--383
+[]|$\OML/cmm/m/it/10.95 P$ \OT1/cmr/m/n/10.95 value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\OT1/cmr/m/n/10.95 (2
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 383--383
+[]|$\OML/cmm/m/it/10.95 P$ \OT1/cmr/m/n/10.95 value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\OT1/cmr/m/n/10.95 (2
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 383--383
+[]|$\OML/cmm/m/it/10.95 P$ \OT1/cmr/m/n/10.95 value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\OT1/cmr/m/n/10.95 (2
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 383--383
+[]|$\OML/cmm/m/it/10.95 P$ \OT1/cmr/m/n/10.95 value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\OT1/cmr/m/n/10.95 (2
+ []
+
+
+<./Figures/chapter6/lower_res/fig_3_meta.pdf, id=1932, 435.6275pt x 435.6275pt>
+File: ./Figures/chapter6/lower_res/fig_3_meta.pdf Graphic file (type pdf)
+<use ./Figures/chapter6/lower_res/fig_3_meta.pdf>
+<./Figures/chapter6/lower_res/fig_3_epi.pdf, id=1933, 435.6275pt x 435.6275pt>
+File: ./Figures/chapter6/lower_res/fig_3_epi.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/lower_res/fig_3_epi.pdf> [77]
+<./Figures/chapter6/test/bootstrap_meta.pdf, id=1939, 561.09625pt x 809.0225pt>
+File: ./Figures/chapter6/test/bootstrap_meta.pdf Graphic file (type pdf)
+<use ./Figures/chapter6/test/bootstrap_meta.pdf>
+
+LaTeX Warning: Float too large for page by 24.57524pt on input line 435.
+
+
+<./Figures/chapter6/test/bootstrap_epi.pdf, id=1944, 561.09625pt x 809.0225pt>
+File: ./Figures/chapter6/test/bootstrap_epi.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/test/bootstrap_epi.pdf>
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [78 <./Figures/chapter6/lower_res/fig_3_meta.pdf> <./Figures/chapter6/lower_re
+s/fig_3_epi.pdf>] [79 <./Figures/chapter6/test/bootstrap_meta.pdf>] [80 <./Figu
+res/chapter6/test/bootstrap_epi.pdf>]
+<./Figures/chapter6/lower_res/fig_4_meta.pdf, id=1984, 811.03pt x 563.10374pt>
+File: ./Figures/chapter6/lower_res/fig_4_meta.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/lower_res/fig_4_meta.pdf>
+<./Figures/chapter6/lower_res/fig_4_epi.pdf, id=1985, 811.03pt x 563.10374pt>
+File: ./Figures/chapter6/lower_res/fig_4_epi.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/lower_res/fig_4_epi.pdf> [81] [82 <./Figures/chapter6/l
+ower_res/fig_4_meta.pdf> <./Figures/chapter6/lower_res/fig_4_epi.pdf>]
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [83]
+<./Figures/chapter6/lower_res/fig_5_meta.pdf, id=2021, 507.8975pt x 435.6275pt>
+File: ./Figures/chapter6/lower_res/fig_5_meta.pdf Graphic file (type pdf)
+<use ./Figures/chapter6/lower_res/fig_5_meta.pdf>
+<./Figures/chapter6/lower_res/fig_5_epi.pdf, id=2022, 507.8975pt x 435.6275pt>
+File: ./Figures/chapter6/lower_res/fig_5_epi.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/lower_res/fig_5_epi.pdf>
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 538.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 538.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 538.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 542.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 542.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 542.
+
+[84]
+<./Figures/chapter6/lower_res/immunogenicity_tax_hbz.pdf, id=2036, 434.62375pt 
+x 579.16376pt>
+File: ./Figures/chapter6/lower_res/immunogenicity_tax_hbz.pdf Graphic file (typ
+e pdf)
+ <use ./Figures/chapter6/lower_res/immunogenicity_tax_hbz.pdf>
+<./Figures/chapter6/lower_res/immunogenicity_exper.pdf, id=2037, 434.62375pt x 
+579.16376pt>
+File: ./Figures/chapter6/lower_res/immunogenicity_exper.pdf Graphic file (type 
+pdf)
+ <use ./Figures/chapter6/lower_res/immunogenicity_exper.pdf>
+Overfull \hbox (0.92679pt too wide) in paragraph at lines 590--591
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 27.99062pt on input line 595.
+
+[85 <./Figures/chapter6/lower_res/fig_5_meta.pdf>] [86]
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [87 <./Figures/chapter6/lower_res/fig_5_epi.pdf>] [88 <./Figures/chapter6/lowe
+r_res/immunogenicity_tax_hbz.pdf> <./Figures/chapter6/lower_res/immunogenicity_
+exper.pdf>]
+Missing character: There is no ’ in font cmr10!
+)
+(./Chapters/Chapter5.tex [89]
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Antigen Expression as a Determinant of CTL Lysis in HTLV-I Infection
+------------------------------------------------------------------------------
+[90
+
+] [91]
+Missing character: There is no ’ in font cmr10!
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 41.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 41.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 41.
+
+[92] [93] [94] [95]
+<./Figures/chapter5/figure_timecourse_hap.pdf, id=2164, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hap.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hap.pdf>
+<./Figures/chapter5/figure_timecourse_hay.pdf, id=2165, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hay.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hay.pdf>
+<./Figures/chapter5/figure_timecourse_hbe.pdf, id=2166, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hbe.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hbe.pdf>
+<./Figures/chapter5/figure_timecourse_hbx.pdf, id=2167, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hbx.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hbx.pdf>
+<./Figures/chapter5/figure_timecourse_hch.pdf, id=2168, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hch.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hch.pdf>
+<./Figures/chapter5/figure_timecourse_hfb.pdf, id=2169, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_hfb.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_hfb.pdf>
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 198.
+
+<./Figures/chapter5/figure_lysis_hap_rep_1.pdf, id=2191, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hap_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hap_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hap_rep_2.pdf, id=2192, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hap_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hap_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_hay_rep_1.pdf, id=2193, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hay_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hay_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hay_rep_2.pdf, id=2194, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hay_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hay_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_hbe_rep_1.pdf, id=2195, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hbe_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hbe_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hbe_rep_2.pdf, id=2196, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hbe_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hbe_rep_2.pdf>
+
+LaTeX Warning: Float too large for page by 13.73659pt on input line 222.
+
+<./Figures/chapter5/pairedEpsilon.pdf, id=2203, 505.89pt x 505.89pt>
+File: ./Figures/chapter5/pairedEpsilon.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/pairedEpsilon.pdf>
+<./Figures/chapter5/figureEpsilonHighLow.pdf, id=2204, 561.09625pt x 433.62pt>
+File: ./Figures/chapter5/figureEpsilonHighLow.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figureEpsilonHighLow.pdf>
+Overfull \hbox (24.85385pt too wide) in paragraph at lines 281--283
+ [] 
+ []
+
+) (./Chapters/Chapter7.tex [96] [97 <./Figures/chapter5/figure_timecourse_hap.p
+df> <./Figures/chapter5/figure_timecourse_hay.pdf> <./Figures/chapter5/figure_t
+imecourse_hbe.pdf> <./Figures/chapter5/figure_timecourse_hbx.pdf> <./Figures/ch
+apter5/figure_timecourse_hch.pdf> <./Figures/chapter5/figure_timecourse_hfb.pdf
+>] [98 <./Figures/chapter5/figure_lysis_hap_rep_1.pdf> <./Figures/chapter5/figu
+re_lysis_hap_rep_2.pdf> <./Figures/chapter5/figure_lysis_hay_rep_1.pdf> <./Figu
+res/chapter5/figure_lysis_hay_rep_2.pdf> <./Figures/chapter5/figure_lysis_hbe_r
+ep_1.pdf> <./Figures/chapter5/figure_lysis_hbe_rep_2.pdf>] [99] [100 <./Figures
+/chapter5/pairedEpsilon.pdf>] [101 <./Figures/chapter5/figureEpsilonHighLow.pdf
+>] [102]
+Chapter 7.
+------------------------------------------------------------------------------
+ 7 The KIR Gene Cluster and HTLV-I
+------------------------------------------------------------------------------
+[103
+
+] [104]
+<./Figures/chapter7/figureInhibAC.pdf, id=2357, 433.62pt x 578.16pt>
+File: ./Figures/chapter7/figureInhibAC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter7/figureInhibAC.pdf>
+<./Figures/chapter7/figureInhibHAM.pdf, id=2358, 433.62pt x 578.16pt>
+File: ./Figures/chapter7/figureInhibHAM.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter7/figureInhibHAM.pdf>
+<./Figures/chapter7/figureActivAC.pdf, id=2360, 433.62pt x 578.16pt>
+File: ./Figures/chapter7/figureActivAC.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter7/figureActivAC.pdf>
+<./Figures/chapter7/figureActivHAM.pdf, id=2361, 433.62pt x 578.16pt>
+File: ./Figures/chapter7/figureActivHAM.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter7/figureActivHAM.pdf> [105 <./Figures/chapter7/figureInhi
+bAC.pdf> <./Figures/chapter7/figureInhibHAM.pdf>] [106 <./Figures/chapter7/figu
+reActivAC.pdf> <./Figures/chapter7/figureActivHAM.pdf>])
+(./Chapters/Chapter8.tex [107]
+Chapter 8.
+------------------------------------------------------------------------------
+ 8 Conclusion
+------------------------------------------------------------------------------
+[108
+
+] [109] [110] [111] [112] [113]) (./Appendices/AppendixA.tex [114]
+Appendix A.
+------------------------------------------------------------------------------
+ A Supplementary Data for Chapter 4
+------------------------------------------------------------------------------
+[115
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 52.
+
+
+Package tabulary Warning: No suitable columns! on input line 99.
+
+
+Package tabulary Warning: No suitable columns! on input line 150.
+
+
+Package tabulary Warning: No suitable columns! on input line 197.
+
+
+Package tabulary Warning: No suitable columns! on input line 270.
+
+
+Package tabulary Warning: No suitable columns! on input line 343.
+
+
+Package tabulary Warning: No suitable columns! on input line 416.
+
+
+Package tabulary Warning: No suitable columns! on input line 489.
+
+[116] [117] [118] [119] [120] [121] [122] [123]
+Overfull \hbox (7.87328pt too wide) in paragraph at lines 556--557
+ [] 
+ []
+
+<./Figures/chapter4/effectSizePositive.pdf, id=2578, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/effectSizePositive.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/effectSizePositive.pdf>
+<./Figures/chapter4/effectSizeNegative.pdf, id=2579, 433.62pt x 433.62pt>
+File: ./Figures/chapter4/effectSizeNegative.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter4/effectSizeNegative.pdf>) (./Appendices/AppendixC.tex
+[124
+
+
+] [125] [126 <./Figures/chapter4/effectSizePositive.pdf> <./Figures/chapter4/ef
+fectSizeNegative.pdf>] [127]
+Appendix B.
+------------------------------------------------------------------------------
+ B Supplementary Data for Chapter 5
+------------------------------------------------------------------------------
+
+LaTeX Warning: Float too large for page by 2.99791pt on input line 50.
+
+[128
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 96.
+
+
+Package tabulary Warning: No suitable columns! on input line 122.
+
+[129] [130] [131]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 199.
+
+[132]
+
+Package tabulary Warning: No suitable columns! on input line 244.
+
+<./Figures/chapter6/EpRank.pdf, id=2673, 433.62pt x 433.62pt>
+File: ./Figures/chapter6/EpRank.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/EpRank.pdf>
+<./Figures/chapter6/avidRank.pdf, id=2674, 433.62pt x 433.62pt>
+File: ./Figures/chapter6/avidRank.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter6/avidRank.pdf> [133] [134] [135 <./Figures/chapter6/EpRa
+nk.pdf> <./Figures/chapter6/avidRank.pdf>]
+
+Package tabulary Warning: No suitable columns! on input line 302.
+
+
+LaTeX Warning: Float too large for page by 67.0513pt on input line 308.
+
+
+Package tabulary Warning: No suitable columns! on input line 347.
+
+
+LaTeX Warning: Float too large for page by 62.83475pt on input line 352.
+
+
+Package tabulary Warning: No suitable columns! on input line 395.
+
+
+Overfull \hbox (13.32663pt too wide) in paragraph at lines 396--397
+ [] 
+ []
+
+
+Package tabulary Warning: No suitable columns! on input line 441.
+
+
+Overfull \hbox (13.32663pt too wide) in paragraph at lines 442--443
+ [] 
+ []
+
+
+Package tabulary Warning: No suitable columns! on input line 475.
+
+
+LaTeX Warning: Float too large for page by 13.62646pt on input line 541.
+
+) (./Appendices/AppendixB.tex [136] [137] [138] [139] [140] [141] [142]
+Appendix C.
+------------------------------------------------------------------------------
+ C Supplementary Data for Chapter 6
+------------------------------------------------------------------------------
+<./Figures/chapter5/figure_timecourse_tak.pdf, id=2739, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_tak.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_tak.pdf>
+<./Figures/chapter5/figure_timecourse_taq.pdf, id=2740, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_taq.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_taq.pdf>
+<./Figures/chapter5/figure_timecourse_taw.pdf, id=2741, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_taw.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_taw.pdf>
+<./Figures/chapter5/figure_timecourse_taz.pdf, id=2742, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_taz.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_taz.pdf>
+<./Figures/chapter5/figure_timecourse_tbc.pdf, id=2743, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_tbc.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_tbc.pdf>
+<./Figures/chapter5/figure_timecourse_tbj.pdf, id=2744, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_tbj.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_tbj.pdf>
+<./Figures/chapter5/figure_timecourse_tbp.pdf, id=2747, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_tbp.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_tbp.pdf>
+<./Figures/chapter5/figure_timecourse_tcl.pdf, id=2748, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_tcl.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_tcl.pdf>
+<./Figures/chapter5/figure_timecourse_uv1.pdf, id=2749, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_timecourse_uv1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_timecourse_uv1.pdf>
+<./Figures/chapter5/figure_lysis_hbx_rep_1.pdf, id=2750, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hbx_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hbx_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hbx_rep_2.pdf, id=2751, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hbx_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hbx_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_hch_rep_1.pdf, id=2752, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hch_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hch_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hch_rep_2.pdf, id=2753, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hch_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hch_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_hfb_rep_1.pdf, id=2754, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hfb_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hfb_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_hfb_rep_2.pdf, id=2755, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_hfb_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_hfb_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_tak_rep_1.pdf, id=2758, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tak_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tak_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_tak_rep_2.pdf, id=2759, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tak_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tak_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_taq_rep_1.pdf, id=2760, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taq_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taq_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_taq_rep_2.pdf, id=2761, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taq_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taq_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_taw_rep_1.pdf, id=2762, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taw_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taw_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_taw_rep_2.pdf, id=2763, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taw_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taw_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_taz_rep_1.pdf, id=2764, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taz_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taz_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_taz_rep_2.pdf, id=2765, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_taz_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_taz_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_tbc_rep_1.pdf, id=2766, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbc_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbc_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_tbc_rep_2.pdf, id=2767, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbc_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbc_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_tbj_rep_1.pdf, id=2768, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbj_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbj_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_tbj_rep_2.pdf, id=2769, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbj_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbj_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_tbp_rep_1.pdf, id=2770, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbp_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbp_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_tbp_rep_2.pdf, id=2771, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tbp_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tbp_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_tcl_rep_1.pdf, id=2772, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tcl_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tcl_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_tcl_rep_2.pdf, id=2773, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_tcl_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_tcl_rep_2.pdf>
+<./Figures/chapter5/figure_lysis_uv1_rep_1.pdf, id=2774, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_uv1_rep_1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_uv1_rep_1.pdf>
+<./Figures/chapter5/figure_lysis_uv1_rep_2.pdf, id=2775, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figure_lysis_uv1_rep_2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figure_lysis_uv1_rep_2.pdf>
+<./Figures/chapter5/figureLowReps.pdf, id=2776, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figureLowReps.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figureLowReps.pdf>
+<./Figures/chapter5/figureHighReps.pdf, id=2777, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figureHighReps.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figureHighReps.pdf>
+<./Figures/chapter5/figureLowOrig.pdf, id=2778, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figureLowOrig.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figureLowOrig.pdf>
+<./Figures/chapter5/figureHighOrig.pdf, id=2779, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figureHighOrig.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figureHighOrig.pdf>
+<./Figures/chapter5/figurec1cOrig.pdf, id=2782, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figurec1cOrig.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figurec1cOrig.pdf>
+<./Figures/chapter5/figurec2cOrig.pdf, id=2783, 433.62pt x 433.62pt>
+File: ./Figures/chapter5/figurec2cOrig.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/figurec2cOrig.pdf>
+<./Figures/chapter5/Ratios.pdf, id=2786, 561.09625pt x 433.62pt>
+File: ./Figures/chapter5/Ratios.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter5/Ratios.pdf>) [143
+
+
+] [144 <./Figures/chapter5/figure_timecourse_tak.pdf> <./Figures/chapter5/figur
+e_timecourse_taq.pdf> <./Figures/chapter5/figure_timecourse_taw.pdf> <./Figures
+/chapter5/figure_timecourse_taz.pdf> <./Figures/chapter5/figure_timecourse_tbc.
+pdf> <./Figures/chapter5/figure_timecourse_tbj.pdf>] [145 <./Figures/chapter5/f
+igure_timecourse_tbp.pdf> <./Figures/chapter5/figure_timecourse_tcl.pdf> <./Fig
+ures/chapter5/figure_timecourse_uv1.pdf>] [146 <./Figures/chapter5/figure_lysis
+_hbx_rep_1.pdf> <./Figures/chapter5/figure_lysis_hbx_rep_2.pdf> <./Figures/chap
+ter5/figure_lysis_hch_rep_1.pdf> <./Figures/chapter5/figure_lysis_hch_rep_2.pdf
+> <./Figures/chapter5/figure_lysis_hfb_rep_1.pdf> <./Figures/chapter5/figure_ly
+sis_hfb_rep_2.pdf>] [147 <./Figures/chapter5/figure_lysis_tak_rep_1.pdf> <./Fig
+ures/chapter5/figure_lysis_tak_rep_2.pdf> <./Figures/chapter5/figure_lysis_taq_
+rep_1.pdf> <./Figures/chapter5/figure_lysis_taq_rep_2.pdf> <./Figures/chapter5/
+figure_lysis_taw_rep_1.pdf> <./Figures/chapter5/figure_lysis_taw_rep_2.pdf>] [1
+48 <./Figures/chapter5/figure_lysis_taz_rep_1.pdf> <./Figures/chapter5/figure_l
+ysis_taz_rep_2.pdf> <./Figures/chapter5/figure_lysis_tbc_rep_1.pdf> <./Figures/
+chapter5/figure_lysis_tbc_rep_2.pdf> <./Figures/chapter5/figure_lysis_tbj_rep_1
+.pdf> <./Figures/chapter5/figure_lysis_tbj_rep_2.pdf>] [149 <./Figures/chapter5
+/figure_lysis_tbp_rep_1.pdf> <./Figures/chapter5/figure_lysis_tbp_rep_2.pdf> <.
+/Figures/chapter5/figure_lysis_tcl_rep_1.pdf> <./Figures/chapter5/figure_lysis_
+tcl_rep_2.pdf> <./Figures/chapter5/figure_lysis_uv1_rep_1.pdf> <./Figures/chapt
+er5/figure_lysis_uv1_rep_2.pdf>]
+[150 <./Figures/chapter5/figureLowReps.pdf> <./Figures/chapter5/figureHighReps.
+pdf> <./Figures/chapter5/figureLowOrig.pdf> <./Figures/chapter5/figureHighOrig.
+pdf>] [151 <./Figures/chapter5/figurec1cOrig.pdf> <./Figures/chapter5/figurec2c
+Orig.pdf> <./Figures/chapter5/Ratios.pdf>]
+------------------------------------------------------------------------------
+ Associated Publications
+------------------------------------------------------------------------------
+[152
+
+]
+------------------------------------------------------------------------------
+ Bibliography
+------------------------------------------------------------------------------
+(./Thesis.bbl
+Missing character: There is no é in font cmr10!
+ [153
+
+
+
+]
+Missing character: There is no á in font cmr10!
+ [154] [155]
+Missing character: There is no é in font cmr10!
+ [156]
+Missing character: There is no á in font cmr10!
+
+Underfull \hbox (badness 1014) in paragraph at lines 342--347
+[]\OT1/cmr/m/n/10.95 S. Hino, H. Sugiyama, H. Doi, T. Ishi-maru, T. Yam-abe, Y.
+ Tsuji, and
+ []
+
+[157]
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no é in font cmr10!
+ [158] [159]
+Missing character: There is no í in font cmr10!
+Missing character: There is no í in font cmr10!
+
+Underfull \hbox (badness 3679) in paragraph at lines 524--531
+[]\OT1/cmr/m/n/10.95 F. Garca-Vallejo, M. C. Dom-nguez, and O. Tamayo.  Au-toim
+-mu-nity
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 524--531
+\OT1/cmr/m/n/10.95 virus-associated myelopa-thy.  \OT1/cmr/m/it/10.95 Braz J Me
+d Biol Res\OT1/cmr/m/n/10.95 , 38(2):241--250, Feb
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 524--531
+\OT1/cmr/m/n/10.95 2005.  doi: $/S0100-[]879X2005000200013$.  URL [][]$\OT1/cmt
+t/m/n/10.95 http : / / dx . doi . org /
+ []
+
+Missing character: There is no á in font cmr10!
+Missing character: There is no á in font cmr10!
+[160]
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+
+Underfull \hbox (badness 1762) in paragraph at lines 656--661
+[]\OT1/cmr/m/n/10.95 M. Mochizuki, T. Watan-abe, K. Ya-m-aguchi, K. Tajima, K. 
+Yoshimura,
+ []
+
+[161] [162] [163] [164]
+Underfull \hbox (badness 1748) in paragraph at lines 888--894
+[]\OT1/cmr/m/n/10.95 Peter K C Goon, Em-manuel Hanon, Tadahiko Igakura, Yuetsu 
+Tanaka,
+ []
+
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ç in font cmr10!
+[165]
+Missing character: There is no ç in font cmr10!
+
+Underfull \hbox (badness 2359) in paragraph at lines 975--985
+[]\OT1/cmr/m/n/10.95 Ingo Drexler, Car-o-line Staib, Wolf-gang Kas-ten-muller, 
+Ste-fan Ste-vanovi?,
+ []
+
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+[166]
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no é in font cmr10!
+ [167]
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no é in font cmr10!
+ [168] [169] [170]
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+ [171]
+Missing character: There is no – in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ê in font cmr10!
+ [172] [173]
+Missing character: There is no é in font cmr10!
+ [174] [175]
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ø in font cmr10!
+) [176]
+(./Thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 17173 strings out of 95086
+ 295084 string characters out of 1183475
+ 508901 words of memory out of 1500000
+ 19164 multiletter control sequences out of 10000+50000
+ 20204 words of font info for 77 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 47i,20n,73p,2093b,1023s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/
+share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-dist/fonts
+/type1/bluesky/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmbxt
+i10.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmcsc10.pfb></usr/share/t
+exmf-dist/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/
+bluesky/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmmi6.pfb><
+/usr/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-dist/f
+onts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/c
+mr10.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/te
+xmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/bl
+uesky/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></usr/
+share/texmf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf-dist/fonts/t
+ype1/bluesky/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10.p
+fb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-di
+st/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/bluesky/
+cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/bluesky/cm/cmti12.pfb></usr/sh
+are/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/t
+ype1/bluesky/cm/cmtt9.pfb></usr/share/texmf-dist/fonts/type1/bluesky/ams/msam7.
+pfb>
+Output written on Thesis.pdf (177 pages, 2568288 bytes).
+PDF statistics:
+ 3523 PDF objects out of 3580 (max. 8388607)
+ 648 named destinations out of 1000 (max. 131072)
+ 1740 words of extra memory for PDF output out of 10000 (max. 10000000)
+
